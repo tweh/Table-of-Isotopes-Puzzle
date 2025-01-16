@@ -1,0 +1,95 @@
+% !TeX program = xelatex
+\documentclass[tikz, border=10mm]{standalone}
+
+\usepackage[l3]{csvsimple}
+
+\usetikzlibrary{calc,shadings}
+
+\usepackage[sfdefault,lining]{FiraSans}
+
+\usepackage[version=4]{mhchem}
+
+\newlength{\tilesize}
+\setlength{\tilesize}{14mm}
+
+% colors of the source
+\colorlet{stablecolor}{black!90}
+\colorlet{alphacolor}{yellow!30}
+\colorlet{betaminuscolor}{blue!15}
+\colorlet{betapluscolor}{orange!35}
+
+\tikzset{
+  x = \tilesize,
+  y = \tilesize,
+  every picture/.style = {
+    line width = 1pt
+  },
+  tile node/.style={
+    rectangle,
+    draw,
+    minimum size = \tilesize,
+    inner sep = 0pt,
+    align = center,
+  },
+  o/.style = {
+    fill = betapluscolor,
+  },
+  g/.style = {
+    fill = alphacolor,
+  },
+  b/.style = {
+    fill = betaminuscolor,
+  },
+  g+b/.style = {
+    fill = alphacolor,
+    fill half = betaminuscolor,
+  },
+  g+o/.style = {
+    fill = alphacolor,
+    fill half = betapluscolor,
+  },
+  b+o/.style = {
+    fill = betaminuscolor,
+    fill half = betapluscolor,
+  },
+  s/.style = {
+    fill = stablecolor,
+    text = white,
+  },
+  fill half/.style = {
+    path picture = {% thanks to https://tex.stackexchange.com/a/584557/4918
+      \fill [#1] (path picture bounding box.south west)
+        -- (path picture bounding box.south east)
+        -- (path picture bounding box.north east)
+        -- cycle;
+    }
+  },
+}
+
+\begin{document}
+\begin{tikzpicture}
+  % axis
+  \draw [->] (119,76) -- (149,76) node [below] {\textbf{N}};
+  \foreach \n in {120,...,148}
+    \draw (\n,76) -- ++(0,-0.2) node [below] {\n};
+  \draw [->] (119,76) -- (119,96) node [left] {\textbf{Z}};
+  \foreach \z in {77,...,95}
+    \draw (119,\z) -- ++(-0.2,0) node [left] {\z};
+  % tiles
+  \csvreader[
+    separator = semicolon,
+    head to column names,
+    head to column names prefix = DATA,
+  ]
+  {../isotope_data.csv}{
+    decay text=\DATAdecays
+  }{
+    \node at (\DATAN,\DATAZ) [tile node, \DATAcolor] {%
+%      \textbf{\textsuperscript{\DATAA}\DATAsymbol}\\
+      \textbf{\ce{^{\DATAA}_{\DATAZ}\DATAsymbol}}\\[0.5ex]
+%      \DATAN,\DATAZ\\
+      \footnotesize\DATAdecays
+    };
+  }
+\end{tikzpicture}
+\end{document}

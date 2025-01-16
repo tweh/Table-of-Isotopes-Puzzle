@@ -1,0 +1,8 @@
+index;symbol;A;Z;N;color;stable;alpha decay;beta minus decay;beta plus decay;first decay;second decay;decay text;file name
+001;Ir;197;77;120;b;false;false;true;false;β-;;β-;001_Ir197_bm
+003;Pt;198;78;120;s;true;false;false;false;;;;003_Pt198_stable
+021;Tl;202;81;121;o;false;false;false;true;β+;;β+;021_Tl202_bp
+032;Pb;204;82;122;g;false;true;false;false;α;;α;032_Pb204_a
+052;Bi;212;83;129;g+b;false;true;true;false;α;β-;α, β-;052_Bi212_a-bm
+058;Po;206;84;122;g+o;false;true;false;true;α;β+;α, β+;058_Po206_a-bp
+170;Ac;226;89;137;b+o;false;false;true;true;β-;β+;β-, β+;170_Ac226_bm-bp
