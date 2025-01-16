@@ -122,7 +122,7 @@ All elements were designed to be printed with **0.4mm nozzle** a **layer height 
 
 ### Colors
 
-If you print on of the plain sets (`p` or `pd`) you can also print the tiles in white and apply the color for the text with a marker to save some color changes. For a color set this might also work if the filament colors are not to dark.
+If you print on of the plain sets (`p` or `pd`) you can also print the tiles in white and apply the color for the text with a marker to save some color changes. For a color set this might also work if the filament colors are not too dark.
 
 ![marker_coloring](pictures/marker_coloring.jpg)
 
