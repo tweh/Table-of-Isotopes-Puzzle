@@ -34,23 +34,43 @@
   o/.style = {
     fill = betapluscolor,
   },
+  o+o/.style = {
+    fill = betapluscolor,
+    fill half = betapluscolor!50,
+  },
   g/.style = {
     fill = alphacolor,
   },
   b/.style = {
     fill = betaminuscolor,
   },
+  b+b/.style = {
+    fill = betaminuscolor,
+    fill half = betaminuscolor!50,
+  },
   g+b/.style = {
     fill = alphacolor,
     fill half = betaminuscolor,
+  },
+  b+g/.style = {
+    fill = betaminuscolor,
+    fill half = alphacolor,
   },
   g+o/.style = {
     fill = alphacolor,
     fill half = betapluscolor,
   },
+  o+g/.style = {
+    fill = betapluscolor,
+    fill half = alphacolor,
+  },
   b+o/.style = {
     fill = betaminuscolor,
     fill half = betapluscolor,
+  },
+  o+b/.style = {
+    fill = betapluscolor,
+    fill half = betaminuscolor,
   },
   s/.style = {
     fill = stablecolor,
@@ -69,12 +89,16 @@
 \begin{document}
 \begin{tikzpicture}
   % axis
-  \draw [->] (119,76) -- (149,76) node [below] {\textbf{N}};
-  \foreach \n in {120,...,148}
-    \draw (\n,76) -- ++(0,-0.2) node [below] {\n};
-  \draw [->] (119,76) -- (119,96) node [left] {\textbf{Z}};
-  \foreach \z in {77,...,95}
-    \draw (119,\z) -- ++(-0.2,0) node [left] {\z};
+  \def\minZ{77}
+  \def\maxZ{95}
+  \def\minN{120}
+  \def\maxN{148}
+  \draw [->] (\minN-1,\minZ-1) -- (\maxN+1,\minZ-1) node [above] {\textbf{N}};
+  \foreach \n in {\minN,...,\maxN}
+    \draw (\n,\minZ-1) -- ++(0,-0.2) node [below] {\n};
+  \draw [->] (\minN-1,\minZ-1) -- (\minN-1,\maxZ+1) node [right] {\textbf{Z}};
+  \foreach \z in {\minZ,...,\maxZ}
+    \draw (\minN-1,\z) -- ++(-0.2,0) node [left] {\z};
   % tiles
   \csvreader[
     separator = semicolon,
