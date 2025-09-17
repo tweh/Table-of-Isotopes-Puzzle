@@ -1,0 +1,1062 @@
+index;symbol;A;Z;N;color;stable;alpha decay;beta minus decay;beta plus decay;first decay;second decay;decay text;file name
+001;H;1;1;0;s;true;false;false;false;;;;001_H1_stable
+002;H;2;1;1;s;true;false;false;false;;;;002_H2_stable
+003;H;3;1;2;b;false;false;true;false;β-;;β-;003_H3_bm
+004;He;3;2;1;s;true;false;false;false;;;;004_He3_stable
+005;He;4;2;2;s;true;false;false;false;;;;005_He4_stable
+006;Li;6;3;3;s;true;false;false;false;;;;006_Li6_stable
+007;Li;7;3;4;s;true;false;false;false;;;;007_Li7_stable
+008;Be;7;4;3;o;false;false;false;true;β+;;β+;008_Be7_bp
+009;Be;9;4;5;s;true;false;false;false;;;;009_Be9_stable
+010;Be;10;4;6;b;false;false;true;false;β-;;β-;010_Be10_bm
+011;B;10;5;5;s;true;false;false;false;;;;011_B10_stable
+012;B;11;5;6;s;true;false;false;false;;;;012_B11_stable
+013;C;11;6;5;o;false;false;false;true;β+;;β+;013_C11_bp
+014;C;12;6;6;s;true;false;false;false;;;;014_C12_stable
+015;C;13;6;7;s;true;false;false;false;;;;015_C13_stable
+016;C;14;6;8;b;false;false;true;false;β-;;β-;016_C14_bm
+017;N;13;7;6;o;false;false;false;true;β+;;β+;017_N13_bp
+018;N;14;7;7;s;true;false;false;false;;;;018_N14_stable
+019;N;15;7;8;s;true;false;false;false;;;;019_N15_stable
+020;N;16;7;9;b;false;false;true;false;β-;;β-;020_N16_bm
+021;O;14;8;6;o;false;false;false;true;β+;;β+;021_O14_bp
+022;O;15;8;7;o;false;false;false;true;β+;;β+;022_O15_bp
+023;O;16;8;8;s;true;false;false;false;;;;023_O16_stable
+024;O;17;8;9;s;true;false;false;false;;;;024_O17_stable
+025;O;18;8;10;s;true;false;false;false;;;;025_O18_stable
+026;O;19;8;11;b;false;false;true;false;β-;;β-;026_O19_bm
+027;F;17;9;8;o;false;false;false;true;β+;;β+;027_F17_bp
+028;F;18;9;9;o;false;false;false;true;β+;;β+;028_F18_bp
+029;F;19;9;10;s;true;false;false;false;;;;029_F19_stable
+030;Ne;19;10;9;o;false;false;false;true;β+;;β+;030_Ne19_bp
+031;Ne;20;10;10;s;true;false;false;false;;;;031_Ne20_stable
+032;Ne;21;10;11;s;true;false;false;false;;;;032_Ne21_stable
+033;Ne;22;10;12;s;true;false;false;false;;;;033_Ne22_stable
+034;Ne;24;10;14;b;false;false;true;false;β-;;β-;034_Ne24_bm
+035;Na;22;11;11;o;false;false;false;true;β+;;β+;035_Na22_bp
+036;Na;23;11;12;s;true;false;false;false;;;;036_Na23_stable
+037;Na;24;11;13;b;false;false;true;false;β-;;β-;037_Na24_bm
+038;Mg;24;12;12;s;true;false;false;false;;;;038_Mg24_stable
+039;Mg;25;12;13;s;true;false;false;false;;;;039_Mg25_stable
+040;Mg;26;12;14;s;true;false;false;false;;;;040_Mg26_stable
+041;Mg;27;12;15;b;false;false;true;false;β-;;β-;041_Mg27_bm
+042;Mg;28;12;16;b;false;false;true;false;β-;;β-;042_Mg28_bm
+043;Al;26;13;13;o;false;false;false;true;β+;;β+;043_Al26_bp
+044;Al;27;13;14;s;true;false;false;false;;;;044_Al27_stable
+045;Al;28;13;15;b;false;false;true;false;β-;;β-;045_Al28_bm
+046;Al;29;13;16;b;false;false;true;false;β-;;β-;046_Al29_bm
+047;Si;28;14;14;s;true;false;false;false;;;;047_Si28_stable
+048;Si;29;14;15;s;true;false;false;false;;;;048_Si29_stable
+049;Si;30;14;16;s;true;false;false;false;;;;049_Si30_stable
+050;Si;31;14;17;b;false;false;true;false;β-;;β-;050_Si31_bm
+051;Si;32;14;18;b;false;false;true;false;β-;;β-;051_Si32_bm
+052;P;30;15;15;o;false;false;false;true;β+;;β+;052_P30_bp
+053;P;31;15;16;s;true;false;false;false;;;;053_P31_stable
+054;P;32;15;17;b;false;false;true;false;β-;;β-;054_P32_bm
+055;P;33;15;18;b;false;false;true;false;β-;;β-;055_P33_bm
+056;S;32;16;16;s;true;false;false;false;;;;056_S32_stable
+057;S;33;16;17;s;true;false;false;false;;;;057_S33_stable
+058;S;34;16;18;s;true;false;false;false;;;;058_S34_stable
+059;S;35;16;19;b;false;false;true;false;β-;;β-;059_S35_bm
+060;S;36;16;20;s;true;false;false;false;;;;060_S36_stable
+061;S;37;16;21;b;false;false;true;false;β-;;β-;061_S37_bm
+062;S;38;16;22;b;false;false;true;false;β-;;β-;062_S38_bm
+063;Cl;34;17;17;o;false;false;false;true;β+;;β+;063_Cl34_bp
+064;Cl;35;17;18;s;true;false;false;false;;;;064_Cl35_stable
+065;Cl;36;17;19;b+o;false;false;true;true;β-;β+;β-, β+;065_Cl36_bm-bp
+066;Cl;37;17;20;s;true;false;false;false;;;;066_Cl37_stable
+067;Cl;38;17;21;b;false;false;true;false;β-;;β-;067_Cl38_bm
+068;Cl;39;17;22;b;false;false;true;false;β-;;β-;068_Cl39_bm
+069;Cl;40;17;23;b;false;false;true;false;β-;;β-;069_Cl40_bm
+070;Ar;36;18;18;s;true;false;false;false;;;;070_Ar36_stable
+071;Ar;37;18;19;o;false;false;false;true;β+;;β+;071_Ar37_bp
+072;Ar;38;18;20;s;true;false;false;false;;;;072_Ar38_stable
+073;Ar;39;18;21;b;false;false;true;false;β-;;β-;073_Ar39_bm
+074;Ar;40;18;22;s;true;false;false;false;;;;074_Ar40_stable
+075;Ar;41;18;23;b;false;false;true;false;β-;;β-;075_Ar41_bm
+076;Ar;42;18;24;b;false;false;true;false;β-;;β-;076_Ar42_bm
+077;Ar;43;18;25;b;false;false;true;false;β-;;β-;077_Ar43_bm
+078;Ar;44;18;26;b;false;false;true;false;β-;;β-;078_Ar44_bm
+079;K;38;19;19;o;false;false;false;true;β+;;β+;079_K38_bp
+080;K;39;19;20;s;true;false;false;false;;;;080_K39_stable
+081;K;40;19;21;b+o;false;false;true;true;β-;β+;β-, β+;081_K40_bm-bp
+082;K;41;19;22;s;true;false;false;false;;;;082_K41_stable
+083;K;42;19;23;b;false;false;true;false;β-;;β-;083_K42_bm
+084;K;43;19;24;b;false;false;true;false;β-;;β-;084_K43_bm
+085;K;44;19;25;b;false;false;true;false;β-;;β-;085_K44_bm
+086;K;45;19;26;b;false;false;true;false;β-;;β-;086_K45_bm
+087;K;46;19;27;b;false;false;true;false;β-;;β-;087_K46_bm
+088;Ca;40;20;20;s;true;false;false;false;;;;088_Ca40_stable
+089;Ca;41;20;21;o;false;false;false;true;β+;;β+;089_Ca41_bp
+090;Ca;42;20;22;s;true;false;false;false;;;;090_Ca42_stable
+091;Ca;43;20;23;s;true;false;false;false;;;;091_Ca43_stable
+092;Ca;44;20;24;s;true;false;false;false;;;;092_Ca44_stable
+093;Ca;45;20;25;b;false;false;true;false;β-;;β-;093_Ca45_bm
+094;Ca;46;20;26;s;true;false;false;false;;;;094_Ca46_stable
+095;Ca;47;20;27;b;false;false;true;false;β-;;β-;095_Ca47_bm
+096;Ca;49;20;29;b;false;false;true;false;β-;;β-;096_Ca49_bm
+097;Sc;43;21;22;o;false;false;false;true;β+;;β+;097_Sc43_bp
+098;Sc;44;21;23;o;false;false;false;true;β+;;β+;098_Sc44_bp
+099;Sc;45;21;24;s;true;false;false;false;;;;099_Sc45_stable
+100;Sc;46;21;25;b;false;false;true;false;β-;;β-;100_Sc46_bm
+101;Sc;47;21;26;b;false;false;true;false;β-;;β-;101_Sc47_bm
+102;Sc;48;21;27;b;false;false;true;false;β-;;β-;102_Sc48_bm
+103;Sc;49;21;28;b;false;false;true;false;β-;;β-;103_Sc49_bm
+104;Sc;50;21;29;b;false;false;true;false;β-;;β-;104_Sc50_bm
+105;Ti;44;22;22;o;false;false;false;true;β+;;β+;105_Ti44_bp
+106;Ti;45;22;23;o;false;false;false;true;β+;;β+;106_Ti45_bp
+107;Ti;46;22;24;s;true;false;false;false;;;;107_Ti46_stable
+108;Ti;47;22;25;s;true;false;false;false;;;;108_Ti47_stable
+109;Ti;48;22;26;s;true;false;false;false;;;;109_Ti48_stable
+110;Ti;49;22;27;s;true;false;false;false;;;;110_Ti49_stable
+111;Ti;50;22;28;s;true;false;false;false;;;;111_Ti50_stable
+112;Ti;51;22;29;b;false;false;true;false;β-;;β-;112_Ti51_bm
+113;Ti;52;22;30;b;false;false;true;false;β-;;β-;113_Ti52_bm
+114;V;47;23;24;o;false;false;false;true;β+;;β+;114_V47_bp
+115;V;48;23;25;o;false;false;false;true;β+;;β+;115_V48_bp
+116;V;49;23;26;o;false;false;false;true;β+;;β+;116_V49_bp
+117;V;50;23;27;o+b;false;false;true;true;β+;β-;β+, β-;117_V50_bp-bm
+118;V;51;23;28;s;true;false;false;false;;;;118_V51_stable
+119;V;52;23;29;b;false;false;true;false;β-;;β-;119_V52_bm
+120;V;53;23;30;b;false;false;true;false;β-;;β-;120_V53_bm
+121;Cr;48;24;24;o;false;false;false;true;β+;;β+;121_Cr48_bp
+122;Cr;49;24;25;o;false;false;false;true;β+;;β+;122_Cr49_bp
+123;Cr;50;24;26;s;true;false;false;false;;;;123_Cr50_stable
+124;Cr;51;24;27;o;false;false;false;true;β+;;β+;124_Cr51_bp
+125;Cr;52;24;28;s;true;false;false;false;;;;125_Cr52_stable
+126;Cr;53;24;29;s;true;false;false;false;;;;126_Cr53_stable
+127;Cr;54;24;30;s;true;false;false;false;;;;127_Cr54_stable
+128;Cr;55;24;31;b;false;false;true;false;β-;;β-;128_Cr55_bm
+129;Cr;56;24;32;b;false;false;true;false;β-;;β-;129_Cr56_bm
+130;Mn;51;25;26;o;false;false;false;true;β+;;β+;130_Mn51_bp
+131;Mn;52;25;27;o;false;false;false;true;β+;;β+;131_Mn52_bp
+132;Mn;53;25;28;o;false;false;false;true;β+;;β+;132_Mn53_bp
+133;Mn;54;25;29;o+b;false;false;true;true;β+;β-;β+, β-;133_Mn54_bp-bm
+134;Mn;55;25;30;s;true;false;false;false;;;;134_Mn55_stable
+135;Mn;56;25;31;b;false;false;true;false;β-;;β-;135_Mn56_bm
+136;Mn;57;25;32;b;false;false;true;false;β-;;β-;136_Mn57_bm
+137;Fe;52;26;26;o;false;false;false;true;β+;;β+;137_Fe52_bp
+138;Fe;53;26;27;o;false;false;false;true;β+;;β+;138_Fe53_bp
+139;Fe;54;26;28;s;true;false;false;false;;;;139_Fe54_stable
+140;Fe;55;26;29;o;false;false;false;true;β+;;β+;140_Fe55_bp
+141;Fe;56;26;30;s;true;false;false;false;;;;141_Fe56_stable
+142;Fe;57;26;31;s;true;false;false;false;;;;142_Fe57_stable
+143;Fe;58;26;32;s;true;false;false;false;;;;143_Fe58_stable
+144;Fe;59;26;33;b;false;false;true;false;β-;;β-;144_Fe59_bm
+145;Fe;60;26;34;b;false;false;true;false;β-;;β-;145_Fe60_bm
+146;Fe;61;26;35;b;false;false;true;false;β-;;β-;146_Fe61_bm
+147;Fe;62;26;36;b;false;false;true;false;β-;;β-;147_Fe62_bm
+148;Co;55;27;28;o;false;false;false;true;β+;;β+;148_Co55_bp
+149;Co;56;27;29;o;false;false;false;true;β+;;β+;149_Co56_bp
+150;Co;57;27;30;o;false;false;false;true;β+;;β+;150_Co57_bp
+151;Co;58;27;31;o;false;false;false;true;β+;;β+;151_Co58_bp
+152;Co;59;27;32;s;true;false;false;false;;;;152_Co59_stable
+153;Co;60;27;33;b;false;false;true;false;β-;;β-;153_Co60_bm
+154;Co;61;27;34;b;false;false;true;false;β-;;β-;154_Co61_bm
+155;Co;62;27;35;b;false;false;true;false;β-;;β-;155_Co62_bm
+156;Ni;56;28;28;o;false;false;false;true;β+;;β+;156_Ni56_bp
+157;Ni;57;28;29;o;false;false;false;true;β+;;β+;157_Ni57_bp
+158;Ni;58;28;30;s;true;false;false;false;;;;158_Ni58_stable
+159;Ni;59;28;31;o;false;false;false;true;β+;;β+;159_Ni59_bp
+160;Ni;60;28;32;s;true;false;false;false;;;;160_Ni60_stable
+161;Ni;61;28;33;s;true;false;false;false;;;;161_Ni61_stable
+162;Ni;62;28;34;s;true;false;false;false;;;;162_Ni62_stable
+163;Ni;63;28;35;b;false;false;true;false;β-;;β-;163_Ni63_bm
+164;Ni;64;28;36;s;true;false;false;false;;;;164_Ni64_stable
+165;Ni;65;28;37;b;false;false;true;false;β-;;β-;165_Ni65_bm
+166;Ni;66;28;38;b;false;false;true;false;β-;;β-;166_Ni66_bm
+167;Cu;57;29;28;o;false;false;false;true;β+;;β+;167_Cu57_bp
+168;Cu;59;29;30;o;false;false;false;true;β+;;β+;168_Cu59_bp
+169;Cu;60;29;31;o;false;false;false;true;β+;;β+;169_Cu60_bp
+170;Cu;61;29;32;o;false;false;false;true;β+;;β+;170_Cu61_bp
+171;Cu;62;29;33;o;false;false;false;true;β+;;β+;171_Cu62_bp
+172;Cu;63;29;34;s;true;false;false;false;;;;172_Cu63_stable
+173;Cu;64;29;35;o+b;false;false;true;true;β+;β-;β+, β-;173_Cu64_bp-bm
+174;Cu;65;29;36;s;true;false;false;false;;;;174_Cu65_stable
+175;Cu;66;29;37;b;false;false;true;false;β-;;β-;175_Cu66_bm
+176;Cu;67;29;38;b;false;false;true;false;β-;;β-;176_Cu67_bm
+177;Cu;69;29;40;b;false;false;true;false;β-;;β-;177_Cu69_bm
+178;Zn;60;30;30;o;false;false;false;true;β+;;β+;178_Zn60_bp
+179;Zn;61;30;31;o;false;false;false;true;β+;;β+;179_Zn61_bp
+180;Zn;62;30;32;o;false;false;false;true;β+;;β+;180_Zn62_bp
+181;Zn;63;30;33;o;false;false;false;true;β+;;β+;181_Zn63_bp
+182;Zn;64;30;34;s;true;false;false;false;;;;182_Zn64_stable
+183;Zn;65;30;35;o;false;false;false;true;β+;;β+;183_Zn65_bp
+184;Zn;66;30;36;s;true;false;false;false;;;;184_Zn66_stable
+185;Zn;67;30;37;s;true;false;false;false;;;;185_Zn67_stable
+186;Zn;68;30;38;s;true;false;false;false;;;;186_Zn68_stable
+187;Zn;69;30;39;b;false;false;true;false;β-;;β-;187_Zn69_bm
+188;Zn;70;30;40;s;true;false;false;false;;;;188_Zn70_stable
+189;Zn;71;30;41;b;false;false;true;false;β-;;β-;189_Zn71_bm
+190;Zn;72;30;42;b;false;false;true;false;β-;;β-;190_Zn72_bm
+191;Ga;64;31;33;o;false;false;false;true;β+;;β+;191_Ga64_bp
+192;Ga;65;31;34;o;false;false;false;true;β+;;β+;192_Ga65_bp
+193;Ga;66;31;35;o;false;false;false;true;β+;;β+;193_Ga66_bp
+194;Ga;67;31;36;o;false;false;false;true;β+;;β+;194_Ga67_bp
+195;Ga;68;31;37;o;false;false;false;true;β+;;β+;195_Ga68_bp
+196;Ga;69;31;38;s;true;false;false;false;;;;196_Ga69_stable
+197;Ga;70;31;39;b+o;false;false;true;true;β-;β+;β-, β+;197_Ga70_bm-bp
+198;Ga;71;31;40;s;true;false;false;false;;;;198_Ga71_stable
+199;Ga;72;31;41;b;false;false;true;false;β-;;β-;199_Ga72_bm
+200;Ga;73;31;42;b;false;false;true;false;β-;;β-;200_Ga73_bm
+201;Ga;74;31;43;b;false;false;true;false;β-;;β-;201_Ga74_bm
+202;Ge;66;32;34;o;false;false;false;true;β+;;β+;202_Ge66_bp
+203;Ge;67;32;35;o;false;false;false;true;β+;;β+;203_Ge67_bp
+204;Ge;68;32;36;o;false;false;false;true;β+;;β+;204_Ge68_bp
+205;Ge;69;32;37;o;false;false;false;true;β+;;β+;205_Ge69_bp
+206;Ge;70;32;38;s;true;false;false;false;;;;206_Ge70_stable
+207;Ge;71;32;39;o;false;false;false;true;β+;;β+;207_Ge71_bp
+208;Ge;72;32;40;s;true;false;false;false;;;;208_Ge72_stable
+209;Ge;73;32;41;s;true;false;false;false;;;;209_Ge73_stable
+210;Ge;74;32;42;s;true;false;false;false;;;;210_Ge74_stable
+211;Ge;75;32;43;b;false;false;true;false;β-;;β-;211_Ge75_bm
+212;Ge;77;32;45;b;false;false;true;false;β-;;β-;212_Ge77_bm
+213;Ge;78;32;46;b;false;false;true;false;β-;;β-;213_Ge78_bm
+214;As;68;33;35;o;false;false;false;true;β+;;β+;214_As68_bp
+215;As;69;33;36;o;false;false;false;true;β+;;β+;215_As69_bp
+216;As;70;33;37;o;false;false;false;true;β+;;β+;216_As70_bp
+217;As;71;33;38;o;false;false;false;true;β+;;β+;217_As71_bp
+218;As;72;33;39;o;false;false;false;true;β+;;β+;218_As72_bp
+219;As;73;33;40;o;false;false;false;true;β+;;β+;219_As73_bp
+220;As;74;33;41;o+b;false;false;true;true;β+;β-;β+, β-;220_As74_bp-bm
+221;As;75;33;42;s;true;false;false;false;;;;221_As75_stable
+222;As;76;33;43;b;false;false;true;false;β-;;β-;222_As76_bm
+223;As;77;33;44;b;false;false;true;false;β-;;β-;223_As77_bm
+224;As;78;33;45;b;false;false;true;false;β-;;β-;224_As78_bm
+225;As;79;33;46;b+b;false;false;true;false;β-;β-;β-, β-;225_As79_bm-bm
+226;Se;70;34;36;o;false;false;false;true;β+;;β+;226_Se70_bp
+227;Se;71;34;37;o;false;false;false;true;β+;;β+;227_Se71_bp
+228;Se;72;34;38;o;false;false;false;true;β+;;β+;228_Se72_bp
+229;Se;73;34;39;o;false;false;false;true;β+;;β+;229_Se73_bp
+230;Se;74;34;40;s;true;false;false;false;;;;230_Se74_stable
+231;Se;75;34;41;o;false;false;false;true;β+;;β+;231_Se75_bp
+232;Se;76;34;42;s;true;false;false;false;;;;232_Se76_stable
+233;Se;77;34;43;s;true;false;false;false;;;;233_Se77_stable
+234;Se;78;34;44;s;true;false;false;false;;;;234_Se78_stable
+235;Se;79;34;45;b;false;false;true;false;β-;;β-;235_Se79_bm
+236;Se;80;34;46;s;true;false;false;false;;;;236_Se80_stable
+237;Se;81;34;47;b;false;false;true;false;β-;;β-;237_Se81_bm
+238;Se;83;34;49;b;false;false;true;false;β-;;β-;238_Se83_bm
+239;Se;84;34;50;b;false;false;true;false;β-;;β-;239_Se84_bm
+240;Br;72;35;37;o;false;false;false;true;β+;;β+;240_Br72_bp
+241;Br;73;35;38;o+o;false;false;false;true;β+;β+;β+, β+;241_Br73_bp-bp
+242;Br;74;35;39;o;false;false;false;true;β+;;β+;242_Br74_bp
+243;Br;75;35;40;o;false;false;false;true;β+;;β+;243_Br75_bp
+244;Br;76;35;41;o;false;false;false;true;β+;;β+;244_Br76_bp
+245;Br;77;35;42;o;false;false;false;true;β+;;β+;245_Br77_bp
+246;Br;78;35;43;o+b;false;false;true;true;β+;β-;β+, β-;246_Br78_bp-bm
+247;Br;79;35;44;s;true;false;false;false;;;;247_Br79_stable
+248;Br;80;35;45;b+o;false;false;true;true;β-;β+;β-, β+;248_Br80_bm-bp
+249;Br;81;35;46;s;true;false;false;false;;;;249_Br81_stable
+250;Br;82;35;47;b;false;false;true;false;β-;;β-;250_Br82_bm
+251;Br;83;35;48;b+b;false;false;true;false;β-;β-;β-, β-;251_Br83_bm-bm
+252;Br;84;35;49;b;false;false;true;false;β-;;β-;252_Br84_bm
+253;Br;85;35;50;b+b;false;false;true;false;β-;β-;β-, β-;253_Br85_bm-bm
+254;Kr;74;36;38;o;false;false;false;true;β+;;β+;254_Kr74_bp
+255;Kr;75;36;39;o;false;false;false;true;β+;;β+;255_Kr75_bp
+256;Kr;76;36;40;o+o;false;false;false;true;β+;β+;β+, β+;256_Kr76_bp-bp
+257;Kr;77;36;41;o+o;false;false;false;true;β+;β+;β+, β+;257_Kr77_bp-bp
+258;Kr;78;36;42;s;true;false;false;false;;;;258_Kr78_stable
+259;Kr;79;36;43;o;false;false;false;true;β+;;β+;259_Kr79_bp
+260;Kr;80;36;44;s;true;false;false;false;;;;260_Kr80_stable
+261;Kr;81;36;45;o;false;false;false;true;β+;;β+;261_Kr81_bp
+262;Kr;82;36;46;s;true;false;false;false;;;;262_Kr82_stable
+263;Kr;83;36;47;s;true;false;false;false;;;;263_Kr83_stable
+264;Kr;84;36;48;s;true;false;false;false;;;;264_Kr84_stable
+265;Kr;85;36;49;b;false;false;true;false;β-;;β-;265_Kr85_bm
+266;Kr;86;36;50;s;true;false;false;false;;;;266_Kr86_stable
+267;Kr;87;36;51;b;false;false;true;false;β-;;β-;267_Kr87_bm
+268;Kr;88;36;52;b;false;false;true;false;β-;;β-;268_Kr88_bm
+269;Kr;89;36;53;b;false;false;true;false;β-;;β-;269_Kr89_bm
+270;Rb;77;37;40;o;false;false;false;true;β+;;β+;270_Rb77_bp
+271;Rb;78;37;41;o;false;false;false;true;β+;;β+;271_Rb78_bp
+272;Rb;79;37;42;o;false;false;false;true;β+;;β+;272_Rb79_bp
+273;Rb;80;37;43;o;false;false;false;true;β+;;β+;273_Rb80_bp
+274;Rb;81;37;44;o+o;false;false;false;true;β+;β+;β+, β+;274_Rb81_bp-bp
+275;Rb;82;37;45;o;false;false;false;true;β+;;β+;275_Rb82_bp
+276;Rb;83;37;46;o+o;false;false;false;true;β+;β+;β+, β+;276_Rb83_bp-bp
+277;Rb;84;37;47;o+b;false;false;true;true;β+;β-;β+, β-;277_Rb84_bp-bm
+278;Rb;85;37;48;s;true;false;false;false;;;;278_Rb85_stable
+279;Rb;86;37;49;b+o;false;false;true;true;β-;β+;β-, β+;279_Rb86_bm-bp
+280;Rb;87;37;50;b;false;false;true;false;β-;;β-;280_Rb87_bm
+281;Rb;88;37;51;b;false;false;true;false;β-;;β-;281_Rb88_bm
+282;Rb;89;37;52;b;false;false;true;false;β-;;β-;282_Rb89_bm
+283;Rb;90;37;53;b;false;false;true;false;β-;;β-;283_Rb90_bm
+284;Sr;79;38;41;o;false;false;false;true;β+;;β+;284_Sr79_bp
+285;Sr;80;38;42;o;false;false;false;true;β+;;β+;285_Sr80_bp
+286;Sr;81;38;43;o+o;false;false;false;true;β+;β+;β+, β+;286_Sr81_bp-bp
+287;Sr;82;38;44;o;false;false;false;true;β+;;β+;287_Sr82_bp
+288;Sr;83;38;45;o;false;false;false;true;β+;;β+;288_Sr83_bp
+289;Sr;84;38;46;s;true;false;false;false;;;;289_Sr84_stable
+290;Sr;85;38;47;o;false;false;false;true;β+;;β+;290_Sr85_bp
+291;Sr;86;38;48;s;true;false;false;false;;;;291_Sr86_stable
+292;Sr;87;38;49;s;true;false;false;false;;;;292_Sr87_stable
+293;Sr;88;38;50;s;true;false;false;false;;;;293_Sr88_stable
+294;Sr;89;38;51;b;false;false;true;false;β-;;β-;294_Sr89_bm
+295;Sr;90;38;52;b;false;false;true;false;β-;;β-;295_Sr90_bm
+296;Sr;91;38;53;b+b;false;false;true;false;β-;β-;β-, β-;296_Sr91_bm-bm
+297;Sr;92;38;54;b;false;false;true;false;β-;;β-;297_Sr92_bm
+298;Sr;93;38;55;b;false;false;true;false;β-;;β-;298_Sr93_bm
+299;Sr;94;38;56;b;false;false;true;false;β-;;β-;299_Sr94_bm
+300;Y;81;39;42;o;false;false;false;true;β+;;β+;300_Y81_bp
+301;Y;83;39;44;o;false;false;false;true;β+;;β+;301_Y83_bp
+302;Y;85;39;46;o;false;false;false;true;β+;;β+;302_Y85_bp
+303;Y;86;39;47;o;false;false;false;true;β+;;β+;303_Y86_bp
+304;Y;87;39;48;o;false;false;false;true;β+;;β+;304_Y87_bp
+305;Y;88;39;49;o;false;false;false;true;β+;;β+;305_Y88_bp
+306;Y;89;39;50;s;true;false;false;false;;;;306_Y89_stable
+307;Y;90;39;51;b;false;false;true;false;β-;;β-;307_Y90_bm
+308;Y;91;39;52;b;false;false;true;false;β-;;β-;308_Y91_bm
+309;Y;92;39;53;b;false;false;true;false;β-;;β-;309_Y92_bm
+310;Y;93;39;54;b;false;false;true;false;β-;;β-;310_Y93_bm
+311;Y;94;39;55;b;false;false;true;false;β-;;β-;311_Y94_bm
+312;Y;95;39;56;b;false;false;true;false;β-;;β-;312_Y95_bm
+313;Zr;85;40;45;o+o;false;false;false;true;β+;β+;β+, β+;313_Zr85_bp-bp
+314;Zr;86;40;46;o;false;false;false;true;β+;;β+;314_Zr86_bp
+315;Zr;87;40;47;o+o;false;false;false;true;β+;β+;β+, β+;315_Zr87_bp-bp
+316;Zr;88;40;48;o;false;false;false;true;β+;;β+;316_Zr88_bp
+317;Zr;89;40;49;o;false;false;false;true;β+;;β+;317_Zr89_bp
+318;Zr;90;40;50;s;true;false;false;false;;;;318_Zr90_stable
+319;Zr;91;40;51;s;true;false;false;false;;;;319_Zr91_stable
+320;Zr;92;40;52;s;true;false;false;false;;;;320_Zr92_stable
+321;Zr;93;40;53;b+b;false;false;true;false;β-;β-;β-, β-;321_Zr93_bm-bm
+322;Zr;94;40;54;s;true;false;false;false;;;;322_Zr94_stable
+323;Zr;95;40;55;b+b;false;false;true;false;β-;β-;β-, β-;323_Zr95_bm-bm
+324;Zr;97;40;57;b;false;false;true;false;β-;;β-;324_Zr97_bm
+325;Nb;87;41;46;o;false;false;false;true;β+;;β+;325_Nb87_bp
+326;Nb;88;41;47;o;false;false;false;true;β+;;β+;326_Nb88_bp
+327;Nb;89;41;48;o+o;false;false;false;true;β+;β+;β+, β+;327_Nb89_bp-bp
+328;Nb;90;41;49;o;false;false;false;true;β+;;β+;328_Nb90_bp
+329;Nb;91;41;50;o;false;false;false;true;β+;;β+;329_Nb91_bp
+330;Nb;92;41;51;o;false;false;false;true;β+;;β+;330_Nb92_bp
+331;Nb;93;41;52;s;true;false;false;false;;;;331_Nb93_stable
+332;Nb;94;41;53;b;false;false;true;false;β-;;β-;332_Nb94_bm
+333;Nb;95;41;54;b;false;false;true;false;β-;;β-;333_Nb95_bm
+334;Nb;96;41;55;b;false;false;true;false;β-;;β-;334_Nb96_bm
+335;Nb;97;41;56;b;false;false;true;false;β-;;β-;335_Nb97_bm
+336;Nb;99;41;58;b;false;false;true;false;β-;;β-;336_Nb99_bm
+337;Mo;89;42;47;o;false;false;false;true;β+;;β+;337_Mo89_bp
+338;Mo;90;42;48;o;false;false;false;true;β+;;β+;338_Mo90_bp
+339;Mo;91;42;49;o+o;false;false;false;true;β+;β+;β+, β+;339_Mo91_bp-bp
+340;Mo;92;42;50;s;true;false;false;false;;;;340_Mo92_stable
+341;Mo;93;42;51;o+o;false;false;false;true;β+;β+;β+, β+;341_Mo93_bp-bp
+342;Mo;94;42;52;s;true;false;false;false;;;;342_Mo94_stable
+343;Mo;95;42;53;s;true;false;false;false;;;;343_Mo95_stable
+344;Mo;96;42;54;s;true;false;false;false;;;;344_Mo96_stable
+345;Mo;97;42;55;s;true;false;false;false;;;;345_Mo97_stable
+346;Mo;98;42;56;s;true;false;false;false;;;;346_Mo98_stable
+347;Mo;99;42;57;b+b;false;false;true;false;β-;β-;β-, β-;347_Mo99_bm-bm
+348;Mo;101;42;59;b;false;false;true;false;β-;;β-;348_Mo101_bm
+349;Mo;102;42;60;b;false;false;true;false;β-;;β-;349_Mo102_bm
+350;Tc;91;43;48;o+o;false;false;false;true;β+;β+;β+, β+;350_Tc91_bp-bp
+351;Tc;92;43;49;o;false;false;false;true;β+;;β+;351_Tc92_bp
+352;Tc;93;43;50;o;false;false;false;true;β+;;β+;352_Tc93_bp
+353;Tc;94;43;51;o;false;false;false;true;β+;;β+;353_Tc94_bp
+354;Tc;95;43;52;o;false;false;false;true;β+;;β+;354_Tc95_bp
+355;Tc;96;43;53;o;false;false;false;true;β+;;β+;355_Tc96_bp
+356;Tc;97;43;54;o;false;false;false;true;β+;;β+;356_Tc97_bp
+357;Tc;98;43;55;b;false;false;true;false;β-;;β-;357_Tc98_bm
+358;Tc;99;43;56;b;false;false;true;false;β-;;β-;358_Tc99_bm
+359;Tc;101;43;58;b;false;false;true;false;β-;;β-;359_Tc101_bm
+360;Tc;102;43;59;b;false;false;true;false;β-;;β-;360_Tc102_bm
+361;Tc;104;43;61;b;false;false;true;false;β-;;β-;361_Tc104_bm
+362;Tc;105;43;62;b;false;false;true;false;β-;;β-;362_Tc105_bm
+363;Ru;92;44;48;o;false;false;false;true;β+;;β+;363_Ru92_bp
+364;Ru;94;44;50;o;false;false;false;true;β+;;β+;364_Ru94_bp
+365;Ru;95;44;51;o+o;false;false;false;true;β+;β+;β+, β+;365_Ru95_bp-bp
+366;Ru;96;44;52;s;true;false;false;false;;;;366_Ru96_stable
+367;Ru;97;44;53;o+o;false;false;false;true;β+;β+;β+, β+;367_Ru97_bp-bp
+368;Ru;98;44;54;s;true;false;false;false;;;;368_Ru98_stable
+369;Ru;99;44;55;s;true;false;false;false;;;;369_Ru99_stable
+370;Ru;100;44;56;s;true;false;false;false;;;;370_Ru100_stable
+371;Ru;101;44;57;s;true;false;false;false;;;;371_Ru101_stable
+372;Ru;102;44;58;s;true;false;false;false;;;;372_Ru102_stable
+373;Ru;103;44;59;b+b;false;false;true;false;β-;β-;β-, β-;373_Ru103_bm-bm
+374;Ru;104;44;60;s;true;false;false;false;;;;374_Ru104_stable
+375;Ru;105;44;61;b;false;false;true;false;β-;;β-;375_Ru105_bm
+376;Ru;106;44;62;b;false;false;true;false;β-;;β-;376_Ru106_bm
+377;Ru;107;44;63;b;false;false;true;false;β-;;β-;377_Ru107_bm
+378;Ru;108;44;64;b;false;false;true;false;β-;;β-;378_Ru108_bm
+379;Rh;94;45;49;o;false;false;false;true;β+;;β+;379_Rh94_bp
+380;Rh;95;45;50;o;false;false;false;true;β+;;β+;380_Rh95_bp
+381;Rh;96;45;51;o;false;false;false;true;β+;;β+;381_Rh96_bp
+382;Rh;97;45;52;o;false;false;false;true;β+;;β+;382_Rh97_bp
+383;Rh;98;45;53;o;false;false;false;true;β+;;β+;383_Rh98_bp
+384;Rh;99;45;54;o;false;false;false;true;β+;;β+;384_Rh99_bp
+385;Rh;100;45;55;o;false;false;false;true;β+;;β+;385_Rh100_bp
+386;Rh;101;45;56;o;false;false;false;true;β+;;β+;386_Rh101_bp
+387;Rh;102;45;57;o+b;false;false;true;true;β+;β-;β+, β-;387_Rh102_bp-bm
+388;Rh;103;45;58;s;true;false;false;false;;;;388_Rh103_stable
+389;Rh;104;45;59;b+o;false;false;true;true;β-;β+;β-, β+;389_Rh104_bm-bp
+390;Rh;105;45;60;b;false;false;true;false;β-;;β-;390_Rh105_bm
+391;Rh;106;45;61;b;false;false;true;false;β-;;β-;391_Rh106_bm
+392;Rh;107;45;62;b;false;false;true;false;β-;;β-;392_Rh107_bm
+393;Rh;108;45;63;b;false;false;true;false;β-;;β-;393_Rh108_bm
+394;Rh;109;45;64;b;false;false;true;false;β-;;β-;394_Rh109_bm
+395;Pd;96;46;50;o;false;false;false;true;β+;;β+;395_Pd96_bp
+396;Pd;97;46;51;o+o;false;false;false;true;β+;β+;β+, β+;396_Pd97_bp-bp
+397;Pd;98;46;52;o;false;false;false;true;β+;;β+;397_Pd98_bp
+398;Pd;99;46;53;o+o;false;false;false;true;β+;β+;β+, β+;398_Pd99_bp-bp
+399;Pd;100;46;54;o;false;false;false;true;β+;;β+;399_Pd100_bp
+400;Pd;101;46;55;o+o;false;false;false;true;β+;β+;β+, β+;400_Pd101_bp-bp
+401;Pd;102;46;56;s;true;false;false;false;;;;401_Pd102_stable
+402;Pd;103;46;57;o+o;false;false;false;true;β+;β+;β+, β+;402_Pd103_bp-bp
+403;Pd;104;46;58;s;true;false;false;false;;;;403_Pd104_stable
+404;Pd;105;46;59;s;true;false;false;false;;;;404_Pd105_stable
+405;Pd;106;46;60;s;true;false;false;false;;;;405_Pd106_stable
+406;Pd;107;46;61;b;false;false;true;false;β-;;β-;406_Pd107_bm
+407;Pd;108;46;62;s;true;false;false;false;;;;407_Pd108_stable
+408;Pd;109;46;63;b;false;false;true;false;β-;;β-;408_Pd109_bm
+409;Pd;110;46;64;s;true;false;false;false;;;;409_Pd110_stable
+410;Pd;111;46;65;b+b;false;false;true;false;β-;β-;β-, β-;410_Pd111_bm-bm
+411;Pd;112;46;66;b;false;false;true;false;β-;;β-;411_Pd112_bm
+412;Pd;114;46;68;b;false;false;true;false;β-;;β-;412_Pd114_bm
+413;Ag;99;47;52;o;false;false;false;true;β+;;β+;413_Ag99_bp
+414;Ag;101;47;54;o;false;false;false;true;β+;;β+;414_Ag101_bp
+415;Ag;102;47;55;o;false;false;false;true;β+;;β+;415_Ag102_bp
+416;Ag;103;47;56;o;false;false;false;true;β+;;β+;416_Ag103_bp
+417;Ag;104;47;57;o;false;false;false;true;β+;;β+;417_Ag104_bp
+418;Ag;105;47;58;o;false;false;false;true;β+;;β+;418_Ag105_bp
+419;Ag;106;47;59;o+b;false;false;true;true;β+;β-;β+, β-;419_Ag106_bp-bm
+420;Ag;107;47;60;s;true;false;false;false;;;;420_Ag107_stable
+421;Ag;108;47;61;b+o;false;false;true;true;β-;β+;β-, β+;421_Ag108_bm-bp
+422;Ag;109;47;62;s;true;false;false;false;;;;422_Ag109_stable
+423;Ag;110;47;63;b+o;false;false;true;true;β-;β+;β-, β+;423_Ag110_bm-bp
+424;Ag;111;47;64;b;false;false;true;false;β-;;β-;424_Ag111_bm
+425;Ag;112;47;65;b;false;false;true;false;β-;;β-;425_Ag112_bm
+426;Ag;113;47;66;b+b;false;false;true;false;β-;β-;β-, β-;426_Ag113_bm-bm
+427;Ag;114;47;67;b;false;false;true;false;β-;;β-;427_Ag114_bm
+428;Ag;115;47;68;b+b;false;false;true;false;β-;β-;β-, β-;428_Ag115_bm-bm
+429;Ag;116;47;69;b;false;false;true;false;β-;;β-;429_Ag116_bm
+430;Ag;117;47;70;b+b;false;false;true;false;β-;β-;β-, β-;430_Ag117_bm-bm
+431;Cd;101;48;53;o;false;false;false;true;β+;;β+;431_Cd101_bp
+432;Cd;102;48;54;o+o;false;false;false;true;β+;β+;β+, β+;432_Cd102_bp-bp
+433;Cd;103;48;55;o;false;false;false;true;β+;;β+;433_Cd103_bp
+434;Cd;104;48;56;o;false;false;false;true;β+;;β+;434_Cd104_bp
+435;Cd;105;48;57;o+o;false;false;false;true;β+;β+;β+, β+;435_Cd105_bp-bp
+436;Cd;106;48;58;s;true;false;false;false;;;;436_Cd106_stable
+437;Cd;107;48;59;o;false;false;false;true;β+;;β+;437_Cd107_bp
+438;Cd;108;48;60;s;true;false;false;false;;;;438_Cd108_stable
+439;Cd;109;48;61;o;false;false;false;true;β+;;β+;439_Cd109_bp
+440;Cd;110;48;62;s;true;false;false;false;;;;440_Cd110_stable
+441;Cd;111;48;63;s;true;false;false;false;;;;441_Cd111_stable
+442;Cd;112;48;64;s;true;false;false;false;;;;442_Cd112_stable
+443;Cd;113;48;65;b;false;false;true;false;β-;;β-;443_Cd113_bm
+444;Cd;114;48;66;s;true;false;false;false;;;;444_Cd114_stable
+445;Cd;115;48;67;b;false;false;true;false;β-;;β-;445_Cd115_bm
+446;Cd;116;48;68;s;true;false;false;false;;;;446_Cd116_stable
+447;Cd;117;48;69;b+b;false;false;true;false;β-;β-;β-, β-;447_Cd117_bm-bm
+448;Cd;118;48;70;b;false;false;true;false;β-;;β-;448_Cd118_bm
+449;Cd;119;48;71;b+b;false;false;true;false;β-;β-;β-, β-;449_Cd119_bm-bm
+450;In;103;49;54;o;false;false;false;true;β+;;β+;450_In103_bp
+451;In;105;49;56;o;false;false;false;true;β+;;β+;451_In105_bp
+452;In;106;49;57;o;false;false;false;true;β+;;β+;452_In106_bp
+453;In;107;49;58;o;false;false;false;true;β+;;β+;453_In107_bp
+454;In;108;49;59;o;false;false;false;true;β+;;β+;454_In108_bp
+455;In;109;49;60;o;false;false;false;true;β+;;β+;455_In109_bp
+456;In;110;49;61;o;false;false;false;true;β+;;β+;456_In110_bp
+457;In;111;49;62;o+o;false;false;false;true;β+;β+;β+, β+;457_In111_bp-bp
+458;In;112;49;63;o+b;false;false;true;true;β+;β-;β+, β-;458_In112_bp-bm
+459;In;113;49;64;s;true;false;false;false;;;;459_In113_stable
+460;In;114;49;65;b+o;false;false;true;true;β-;β+;β-, β+;460_In114_bm-bp
+461;In;115;49;66;b;false;false;true;false;β-;;β-;461_In115_bm
+462;In;117;49;68;b+b;false;false;true;false;β-;β-;β-, β-;462_In117_bm-bm
+463;In;118;49;69;b;false;false;true;false;β-;;β-;463_In118_bm
+464;In;119;49;70;b+b;false;false;true;false;β-;β-;β-, β-;464_In119_bm-bm
+465;In;121;49;72;b+b;false;false;true;false;β-;β-;β-, β-;465_In121_bm-bm
+466;Sn;106;50;56;o;false;false;false;true;β+;;β+;466_Sn106_bp
+467;Sn;108;50;58;o;false;false;false;true;β+;;β+;467_Sn108_bp
+468;Sn;109;50;59;o+o;false;false;false;true;β+;β+;β+, β+;468_Sn109_bp-bp
+469;Sn;110;50;60;o;false;false;false;true;β+;;β+;469_Sn110_bp
+470;Sn;111;50;61;o+o;false;false;false;true;β+;β+;β+, β+;470_Sn111_bp-bp
+471;Sn;112;50;62;s;true;false;false;false;;;;471_Sn112_stable
+472;Sn;113;50;63;o+o;false;false;false;true;β+;β+;β+, β+;472_Sn113_bp-bp
+473;Sn;114;50;64;s;true;false;false;false;;;;473_Sn114_stable
+474;Sn;115;50;65;s;true;false;false;false;;;;474_Sn115_stable
+475;Sn;116;50;66;s;true;false;false;false;;;;475_Sn116_stable
+476;Sn;117;50;67;s;true;false;false;false;;;;476_Sn117_stable
+477;Sn;118;50;68;s;true;false;false;false;;;;477_Sn118_stable
+478;Sn;119;50;69;s;true;false;false;false;;;;478_Sn119_stable
+479;Sn;120;50;70;s;true;false;false;false;;;;479_Sn120_stable
+480;Sn;121;50;71;b;false;false;true;false;β-;;β-;480_Sn121_bm
+481;Sn;122;50;72;s;true;false;false;false;;;;481_Sn122_stable
+482;Sn;123;50;73;b;false;false;true;false;β-;;β-;482_Sn123_bm
+483;Sn;124;50;74;s;true;false;false;false;;;;483_Sn124_stable
+484;Sn;125;50;75;b;false;false;true;false;β-;;β-;484_Sn125_bm
+485;Sn;126;50;76;b;false;false;true;false;β-;;β-;485_Sn126_bm
+486;Sn;127;50;77;b;false;false;true;false;β-;;β-;486_Sn127_bm
+487;Sn;128;50;78;b;false;false;true;false;β-;;β-;487_Sn128_bm
+488;Sn;129;50;79;b;false;false;true;false;β-;;β-;488_Sn129_bm
+489;Sn;130;50;80;b;false;false;true;false;β-;;β-;489_Sn130_bm
+490;Sb;111;51;60;o;false;false;false;true;β+;;β+;490_Sb111_bp
+491;Sb;113;51;62;o+o;false;false;false;true;β+;β+;β+, β+;491_Sb113_bp-bp
+492;Sb;114;51;63;o;false;false;false;true;β+;;β+;492_Sb114_bp
+493;Sb;115;51;64;o;false;false;false;true;β+;;β+;493_Sb115_bp
+494;Sb;116;51;65;o;false;false;false;true;β+;;β+;494_Sb116_bp
+495;Sb;117;51;66;o;false;false;false;true;β+;;β+;495_Sb117_bp
+496;Sb;118;51;67;o;false;false;false;true;β+;;β+;496_Sb118_bp
+497;Sb;119;51;68;o;false;false;false;true;β+;;β+;497_Sb119_bp
+498;Sb;120;51;69;o;false;false;false;true;β+;;β+;498_Sb120_bp
+499;Sb;121;51;70;s;true;false;false;false;;;;499_Sb121_stable
+500;Sb;122;51;71;b+o;false;false;true;true;β-;β+;β-, β+;500_Sb122_bm-bp
+501;Sb;123;51;72;s;true;false;false;false;;;;501_Sb123_stable
+502;Sb;124;51;73;b;false;false;true;false;β-;;β-;502_Sb124_bm
+503;Sb;125;51;74;b+b;false;false;true;false;β-;β-;β-, β-;503_Sb125_bm-bm
+504;Sb;126;51;75;b;false;false;true;false;β-;;β-;504_Sb126_bm
+505;Sb;127;51;76;b+b;false;false;true;false;β-;β-;β-, β-;505_Sb127_bm-bm
+506;Sb;128;51;77;b;false;false;true;false;β-;;β-;506_Sb128_bm
+507;Sb;129;51;78;b+b;false;false;true;false;β-;β-;β-, β-;507_Sb129_bm-bm
+508;Sb;130;51;79;b;false;false;true;false;β-;;β-;508_Sb130_bm
+509;Sb;131;51;80;b+b;false;false;true;false;β-;β-;β-, β-;509_Sb131_bm-bm
+510;Sb;133;51;82;b+b;false;false;true;false;β-;β-;β-, β-;510_Sb133_bm-bm
+511;Te;113;52;61;o;false;false;false;true;β+;;β+;511_Te113_bp
+512;Te;114;52;62;o;false;false;false;true;β+;;β+;512_Te114_bp
+513;Te;115;52;63;o;false;false;false;true;β+;;β+;513_Te115_bp
+514;Te;116;52;64;o;false;false;false;true;β+;;β+;514_Te116_bp
+515;Te;117;52;65;o;false;false;false;true;β+;;β+;515_Te117_bp
+516;Te;118;52;66;o;false;false;false;true;β+;;β+;516_Te118_bp
+517;Te;119;52;67;o;false;false;false;true;β+;;β+;517_Te119_bp
+518;Te;120;52;68;s;true;false;false;false;;;;518_Te120_stable
+519;Te;121;52;69;o;false;false;false;true;β+;;β+;519_Te121_bp
+520;Te;122;52;70;s;true;false;false;false;;;;520_Te122_stable
+521;Te;123;52;71;o;false;false;false;true;β+;;β+;521_Te123_bp
+522;Te;124;52;72;s;true;false;false;false;;;;522_Te124_stable
+523;Te;125;52;73;s;true;false;false;false;;;;523_Te125_stable
+524;Te;126;52;74;s;true;false;false;false;;;;524_Te126_stable
+525;Te;127;52;75;b;false;false;true;false;β-;;β-;525_Te127_bm
+526;Te;128;52;76;s;true;false;false;false;;;;526_Te128_stable
+527;Te;129;52;77;b;false;false;true;false;β-;;β-;527_Te129_bm
+528;Te;130;52;78;s;true;false;false;false;;;;528_Te130_stable
+529;Te;131;52;79;b;false;false;true;false;β-;;β-;529_Te131_bm
+530;Te;132;52;80;b;false;false;true;false;β-;;β-;530_Te132_bm
+531;Te;133;52;81;b;false;false;true;false;β-;;β-;531_Te133_bm
+532;Te;134;52;82;b;false;false;true;false;β-;;β-;532_Te134_bm
+533;I;118;53;65;o;false;false;false;true;β+;;β+;533_I118_bp
+534;I;119;53;66;o+o;false;false;false;true;β+;β+;β+, β+;534_I119_bp-bp
+535;I;120;53;67;o;false;false;false;true;β+;;β+;535_I120_bp
+536;I;121;53;68;o+o;false;false;false;true;β+;β+;β+, β+;536_I121_bp-bp
+537;I;122;53;69;o;false;false;false;true;β+;;β+;537_I122_bp
+538;I;123;53;70;o+o;false;false;false;true;β+;β+;β+, β+;538_I123_bp-bp
+539;I;124;53;71;o;false;false;false;true;β+;;β+;539_I124_bp
+540;I;125;53;72;o;false;false;false;true;β+;;β+;540_I125_bp
+541;I;126;53;73;o+b;false;false;true;true;β+;β-;β+, β-;541_I126_bp-bm
+542;I;127;53;74;s;true;false;false;false;;;;542_I127_stable
+543;I;128;53;75;b+o;false;false;true;true;β-;β+;β-, β+;543_I128_bm-bp
+544;I;129;53;76;b;false;false;true;false;β-;;β-;544_I129_bm
+545;I;130;53;77;b;false;false;true;false;β-;;β-;545_I130_bm
+546;I;131;53;78;b+b;false;false;true;false;β-;β-;β-, β-;546_I131_bm-bm
+547;I;132;53;79;b;false;false;true;false;β-;;β-;547_I132_bm
+548;I;133;53;80;b+b;false;false;true;false;β-;β-;β-, β-;548_I133_bm-bm
+549;I;134;53;81;b;false;false;true;false;β-;;β-;549_I134_bm
+550;I;135;53;82;b+b;false;false;true;false;β-;β-;β-, β-;550_I135_bm-bm
+551;Xe;120;54;66;o;false;false;false;true;β+;;β+;551_Xe120_bp
+552;Xe;121;54;67;o;false;false;false;true;β+;;β+;552_Xe121_bp
+553;Xe;122;54;68;o;false;false;false;true;β+;;β+;553_Xe122_bp
+554;Xe;123;54;69;o;false;false;false;true;β+;;β+;554_Xe123_bp
+555;Xe;124;54;70;s;true;false;false;false;;;;555_Xe124_stable
+556;Xe;125;54;71;o;false;false;false;true;β+;;β+;556_Xe125_bp
+557;Xe;126;54;72;s;true;false;false;false;;;;557_Xe126_stable
+558;Xe;127;54;73;o;false;false;false;true;β+;;β+;558_Xe127_bp
+559;Xe;128;54;74;s;true;false;false;false;;;;559_Xe128_stable
+560;Xe;129;54;75;s;true;false;false;false;;;;560_Xe129_stable
+561;Xe;130;54;76;s;true;false;false;false;;;;561_Xe130_stable
+562;Xe;131;54;77;s;true;false;false;false;;;;562_Xe131_stable
+563;Xe;132;54;78;s;true;false;false;false;;;;563_Xe132_stable
+564;Xe;133;54;79;b;false;false;true;false;β-;;β-;564_Xe133_bm
+565;Xe;134;54;80;s;true;false;false;false;;;;565_Xe134_stable
+566;Xe;135;54;81;b;false;false;true;false;β-;;β-;566_Xe135_bm
+567;Xe;137;54;83;b;false;false;true;false;β-;;β-;567_Xe137_bm
+568;Xe;138;54;84;b;false;false;true;false;β-;;β-;568_Xe138_bm
+569;Cs;121;55;66;o;false;false;false;true;β+;;β+;569_Cs121_bp
+570;Cs;123;55;68;o;false;false;false;true;β+;;β+;570_Cs123_bp
+571;Cs;124;55;69;o;false;false;false;true;β+;;β+;571_Cs124_bp
+572;Cs;125;55;70;o;false;false;false;true;β+;;β+;572_Cs125_bp
+573;Cs;126;55;71;o;false;false;false;true;β+;;β+;573_Cs126_bp
+574;Cs;127;55;72;o;false;false;false;true;β+;;β+;574_Cs127_bp
+575;Cs;128;55;73;o;false;false;false;true;β+;;β+;575_Cs128_bp
+576;Cs;129;55;74;o;false;false;false;true;β+;;β+;576_Cs129_bp
+577;Cs;130;55;75;o+b;false;false;true;true;β+;β-;β+, β-;577_Cs130_bp-bm
+578;Cs;131;55;76;o;false;false;false;true;β+;;β+;578_Cs131_bp
+579;Cs;132;55;77;o+b;false;false;true;true;β+;β-;β+, β-;579_Cs132_bp-bm
+580;Cs;133;55;78;s;true;false;false;false;;;;580_Cs133_stable
+581;Cs;134;55;79;b+o;false;false;true;true;β-;β+;β-, β+;581_Cs134_bm-bp
+582;Cs;135;55;80;b;false;false;true;false;β-;;β-;582_Cs135_bm
+583;Cs;136;55;81;b;false;false;true;false;β-;;β-;583_Cs136_bm
+584;Cs;137;55;82;b+b;false;false;true;false;β-;β-;β-, β-;584_Cs137_bm-bm
+585;Cs;138;55;83;b;false;false;true;false;β-;;β-;585_Cs138_bm
+586;Cs;139;55;84;b;false;false;true;false;β-;;β-;586_Cs139_bm
+587;Cs;140;55;85;b;false;false;true;false;β-;;β-;587_Cs140_bm
+588;Ba;124;56;68;o;false;false;false;true;β+;;β+;588_Ba124_bp
+589;Ba;126;56;70;o;false;false;false;true;β+;;β+;589_Ba126_bp
+590;Ba;127;56;71;o;false;false;false;true;β+;;β+;590_Ba127_bp
+591;Ba;128;56;72;o;false;false;false;true;β+;;β+;591_Ba128_bp
+592;Ba;129;56;73;o;false;false;false;true;β+;;β+;592_Ba129_bp
+593;Ba;130;56;74;s;true;false;false;false;;;;593_Ba130_stable
+594;Ba;131;56;75;o;false;false;false;true;β+;;β+;594_Ba131_bp
+595;Ba;132;56;76;s;true;false;false;false;;;;595_Ba132_stable
+596;Ba;133;56;77;o;false;false;false;true;β+;;β+;596_Ba133_bp
+597;Ba;134;56;78;s;true;false;false;false;;;;597_Ba134_stable
+598;Ba;135;56;79;s;true;false;false;false;;;;598_Ba135_stable
+599;Ba;136;56;80;s;true;false;false;false;;;;599_Ba136_stable
+600;Ba;137;56;81;s;true;false;false;false;;;;600_Ba137_stable
+601;Ba;138;56;82;s;true;false;false;false;;;;601_Ba138_stable
+602;Ba;139;56;83;b;false;false;true;false;β-;;β-;602_Ba139_bm
+603;Ba;140;56;84;b;false;false;true;false;β-;;β-;603_Ba140_bm
+604;Ba;141;56;85;b;false;false;true;false;β-;;β-;604_Ba141_bm
+605;Ba;142;56;86;b;false;false;true;false;β-;;β-;605_Ba142_bm
+606;La;128;57;71;o;false;false;false;true;β+;;β+;606_La128_bp
+607;La;129;57;72;o+o;false;false;false;true;β+;β+;β+, β+;607_La129_bp-bp
+608;La;130;57;73;o;false;false;false;true;β+;;β+;608_La130_bp
+609;La;131;57;74;o;false;false;false;true;β+;;β+;609_La131_bp
+610;La;132;57;75;o;false;false;false;true;β+;;β+;610_La132_bp
+611;La;133;57;76;o;false;false;false;true;β+;;β+;611_La133_bp
+612;La;134;57;77;o;false;false;false;true;β+;;β+;612_La134_bp
+613;La;135;57;78;o;false;false;false;true;β+;;β+;613_La135_bp
+614;La;136;57;79;o;false;false;false;true;β+;;β+;614_La136_bp
+615;La;137;57;80;o;false;false;false;true;β+;;β+;615_La137_bp
+616;La;138;57;81;o+b;false;false;true;true;β+;β-;β+, β-;616_La138_bp-bm
+617;La;139;57;82;s;true;false;false;false;;;;617_La139_stable
+618;La;140;57;83;b;false;false;true;false;β-;;β-;618_La140_bm
+619;La;141;57;84;b;false;false;true;false;β-;;β-;619_La141_bm
+620;La;142;57;85;b;false;false;true;false;β-;;β-;620_La142_bm
+621;La;143;57;86;b;false;false;true;false;β-;;β-;621_La143_bm
+622;Ce;130;58;72;o;false;false;false;true;β+;;β+;622_Ce130_bp
+623;Ce;131;58;73;o;false;false;false;true;β+;;β+;623_Ce131_bp
+624;Ce;132;58;74;o;false;false;false;true;β+;;β+;624_Ce132_bp
+625;Ce;133;58;75;o;false;false;false;true;β+;;β+;625_Ce133_bp
+626;Ce;134;58;76;o;false;false;false;true;β+;;β+;626_Ce134_bp
+627;Ce;135;58;77;o;false;false;false;true;β+;;β+;627_Ce135_bp
+628;Ce;136;58;78;s;true;false;false;false;;;;628_Ce136_stable
+629;Ce;137;58;79;o;false;false;false;true;β+;;β+;629_Ce137_bp
+630;Ce;138;58;80;s;true;false;false;false;;;;630_Ce138_stable
+631;Ce;139;58;81;o;false;false;false;true;β+;;β+;631_Ce139_bp
+632;Ce;140;58;82;s;true;false;false;false;;;;632_Ce140_stable
+633;Ce;141;58;83;b;false;false;true;false;β-;;β-;633_Ce141_bm
+634;Ce;142;58;84;s;true;false;false;false;;;;634_Ce142_stable
+635;Ce;143;58;85;b;false;false;true;false;β-;;β-;635_Ce143_bm
+636;Ce;144;58;86;b+b;false;false;true;false;β-;β-;β-, β-;636_Ce144_bm-bm
+637;Ce;145;58;87;b;false;false;true;false;β-;;β-;637_Ce145_bm
+638;Pr;134;59;75;o;false;false;false;true;β+;;β+;638_Pr134_bp
+639;Pr;135;59;76;o;false;false;false;true;β+;;β+;639_Pr135_bp
+640;Pr;136;59;77;o;false;false;false;true;β+;;β+;640_Pr136_bp
+641;Pr;137;59;78;o;false;false;false;true;β+;;β+;641_Pr137_bp
+642;Pr;138;59;79;o;false;false;false;true;β+;;β+;642_Pr138_bp
+643;Pr;139;59;80;o;false;false;false;true;β+;;β+;643_Pr139_bp
+644;Pr;140;59;81;o;false;false;false;true;β+;;β+;644_Pr140_bp
+645;Pr;141;59;82;s;true;false;false;false;;;;645_Pr141_stable
+646;Pr;142;59;83;b+o;false;false;true;true;β-;β+;β-, β+;646_Pr142_bm-bp
+647;Pr;143;59;84;b;false;false;true;false;β-;;β-;647_Pr143_bm
+648;Pr;144;59;85;b;false;false;true;false;β-;;β-;648_Pr144_bm
+649;Pr;145;59;86;b;false;false;true;false;β-;;β-;649_Pr145_bm
+650;Pr;146;59;87;b;false;false;true;false;β-;;β-;650_Pr146_bm
+651;Pr;147;59;88;b;false;false;true;false;β-;;β-;651_Pr147_bm
+652;Pr;148;59;89;b;false;false;true;false;β-;;β-;652_Pr148_bm
+653;Nd;134;60;74;o;false;false;false;true;β+;;β+;653_Nd134_bp
+654;Nd;135;60;75;o;false;false;false;true;β+;;β+;654_Nd135_bp
+655;Nd;136;60;76;o;false;false;false;true;β+;;β+;655_Nd136_bp
+656;Nd;137;60;77;o;false;false;false;true;β+;;β+;656_Nd137_bp
+657;Nd;138;60;78;o;false;false;false;true;β+;;β+;657_Nd138_bp
+658;Nd;139;60;79;o;false;false;false;true;β+;;β+;658_Nd139_bp
+659;Nd;140;60;80;o;false;false;false;true;β+;;β+;659_Nd140_bp
+660;Nd;141;60;81;o;false;false;false;true;β+;;β+;660_Nd141_bp
+661;Nd;142;60;82;s;true;false;false;false;;;;661_Nd142_stable
+662;Nd;143;60;83;s;true;false;false;false;;;;662_Nd143_stable
+663;Nd;144;60;84;g;false;true;false;false;α;;α;663_Nd144_a
+664;Nd;145;60;85;s;true;false;false;false;;;;664_Nd145_stable
+665;Nd;146;60;86;s;true;false;false;false;;;;665_Nd146_stable
+666;Nd;147;60;87;b;false;false;true;false;β-;;β-;666_Nd147_bm
+667;Nd;148;60;88;s;true;false;false;false;;;;667_Nd148_stable
+668;Nd;149;60;89;b;false;false;true;false;β-;;β-;668_Nd149_bm
+669;Nd;151;60;91;b;false;false;true;false;β-;;β-;669_Nd151_bm
+670;Nd;152;60;92;b;false;false;true;false;β-;;β-;670_Nd152_bm
+671;Pm;136;61;75;o;false;false;false;true;β+;;β+;671_Pm136_bp
+672;Pm;139;61;78;o;false;false;false;true;β+;;β+;672_Pm139_bp
+673;Pm;140;61;79;o;false;false;false;true;β+;;β+;673_Pm140_bp
+674;Pm;141;61;80;o+o;false;false;false;true;β+;β+;β+, β+;674_Pm141_bp-bp
+675;Pm;142;61;81;o;false;false;false;true;β+;;β+;675_Pm142_bp
+676;Pm;143;61;82;o;false;false;false;true;β+;;β+;676_Pm143_bp
+677;Pm;144;61;83;o;false;false;false;true;β+;;β+;677_Pm144_bp
+678;Pm;145;61;84;o+g;false;true;false;true;β+;α;β+, α;678_Pm145_bp-a
+679;Pm;146;61;85;o+b;false;false;true;true;β+;β-;β+, β-;679_Pm146_bp-bm
+680;Pm;147;61;86;b;false;false;true;false;β-;;β-;680_Pm147_bm
+681;Pm;148;61;87;b;false;false;true;false;β-;;β-;681_Pm148_bm
+682;Pm;149;61;88;b;false;false;true;false;β-;;β-;682_Pm149_bm
+683;Pm;150;61;89;b;false;false;true;false;β-;;β-;683_Pm150_bm
+684;Pm;151;61;90;b;false;false;true;false;β-;;β-;684_Pm151_bm
+685;Pm;152;61;91;b;false;false;true;false;β-;;β-;685_Pm152_bm
+686;Pm;153;61;92;b;false;false;true;false;β-;;β-;686_Pm153_bm
+687;Pm;154;61;93;b;false;false;true;false;β-;;β-;687_Pm154_bm
+688;Sm;139;62;77;o;false;false;false;true;β+;;β+;688_Sm139_bp
+689;Sm;140;62;78;o;false;false;false;true;β+;;β+;689_Sm140_bp
+690;Sm;141;62;79;o;false;false;false;true;β+;;β+;690_Sm141_bp
+691;Sm;142;62;80;o;false;false;false;true;β+;;β+;691_Sm142_bp
+692;Sm;143;62;81;o;false;false;false;true;β+;;β+;692_Sm143_bp
+693;Sm;144;62;82;s;true;false;false;false;;;;693_Sm144_stable
+694;Sm;145;62;83;o;false;false;false;true;β+;;β+;694_Sm145_bp
+695;Sm;146;62;84;g;false;true;false;false;α;;α;695_Sm146_a
+696;Sm;147;62;85;g;false;true;false;false;α;;α;696_Sm147_a
+697;Sm;148;62;86;g;false;true;false;false;α;;α;697_Sm148_a
+698;Sm;149;62;87;s;true;false;false;false;;;;698_Sm149_stable
+699;Sm;150;62;88;s;true;false;false;false;;;;699_Sm150_stable
+700;Sm;151;62;89;b;false;false;true;false;β-;;β-;700_Sm151_bm
+701;Sm;152;62;90;s;true;false;false;false;;;;701_Sm152_stable
+702;Sm;153;62;91;b;false;false;true;false;β-;;β-;702_Sm153_bm
+703;Sm;154;62;92;s;true;false;false;false;;;;703_Sm154_stable
+704;Sm;155;62;93;b;false;false;true;false;β-;;β-;704_Sm155_bm
+705;Sm;156;62;94;b;false;false;true;false;β-;;β-;705_Sm156_bm
+706;Sm;157;62;95;b;false;false;true;false;β-;;β-;706_Sm157_bm
+707;Eu;142;63;79;o;false;false;false;true;β+;;β+;707_Eu142_bp
+708;Eu;143;63;80;o+o;false;false;false;true;β+;β+;β+, β+;708_Eu143_bp-bp
+709;Eu;144;63;81;o;false;false;false;true;β+;;β+;709_Eu144_bp
+710;Eu;145;63;82;o;false;false;false;true;β+;;β+;710_Eu145_bp
+711;Eu;146;63;83;o;false;false;false;true;β+;;β+;711_Eu146_bp
+712;Eu;147;63;84;o+g;false;true;false;true;β+;α;β+, α;712_Eu147_bp-a
+713;Eu;148;63;85;o+g;false;true;false;true;β+;α;β+, α;713_Eu148_bp-a
+714;Eu;149;63;86;o;false;false;false;true;β+;;β+;714_Eu149_bp
+715;Eu;150;63;87;o;false;false;false;true;β+;;β+;715_Eu150_bp
+716;Eu;151;63;88;s;true;false;false;false;;;;716_Eu151_stable
+717;Eu;152;63;89;o+b;false;false;true;true;β+;β-;β+, β-;717_Eu152_bp-bm
+718;Eu;153;63;90;s;true;false;false;false;;;;718_Eu153_stable
+719;Eu;154;63;91;b+o;false;false;true;true;β-;β+;β-, β+;719_Eu154_bm-bp
+720;Eu;155;63;92;b;false;false;true;false;β-;;β-;720_Eu155_bm
+721;Eu;156;63;93;b;false;false;true;false;β-;;β-;721_Eu156_bm
+722;Eu;157;63;94;b;false;false;true;false;β-;;β-;722_Eu157_bm
+723;Eu;158;63;95;b;false;false;true;false;β-;;β-;723_Eu158_bm
+724;Eu;159;63;96;b;false;false;true;false;β-;;β-;724_Eu159_bm
+725;Gd;142;64;78;o;false;false;false;true;β+;;β+;725_Gd142_bp
+726;Gd;144;64;80;o;false;false;false;true;β+;;β+;726_Gd144_bp
+727;Gd;145;64;81;o;false;false;false;true;β+;;β+;727_Gd145_bp
+728;Gd;146;64;82;o;false;false;false;true;β+;;β+;728_Gd146_bp
+729;Gd;147;64;83;o;false;false;false;true;β+;;β+;729_Gd147_bp
+730;Gd;148;64;84;g;false;true;false;false;α;;α;730_Gd148_a
+731;Gd;149;64;85;o;false;false;false;true;β+;;β+;731_Gd149_bp
+732;Gd;150;64;86;g;false;true;false;false;α;;α;732_Gd150_a
+733;Gd;151;64;87;o+g;false;true;false;true;β+;α;β+, α;733_Gd151_bp-a
+734;Gd;152;64;88;g;false;true;false;false;α;;α;734_Gd152_a
+735;Gd;153;64;89;o;false;false;false;true;β+;;β+;735_Gd153_bp
+736;Gd;154;64;90;s;true;false;false;false;;;;736_Gd154_stable
+737;Gd;155;64;91;s;true;false;false;false;;;;737_Gd155_stable
+738;Gd;156;64;92;s;true;false;false;false;;;;738_Gd156_stable
+739;Gd;157;64;93;s;true;false;false;false;;;;739_Gd157_stable
+740;Gd;158;64;94;s;true;false;false;false;;;;740_Gd158_stable
+741;Gd;159;64;95;b;false;false;true;false;β-;;β-;741_Gd159_bm
+742;Gd;160;64;96;s;true;false;false;false;;;;742_Gd160_stable
+743;Gd;162;64;98;b;false;false;true;false;β-;;β-;743_Gd162_bm
+744;Tb;146;65;81;o;false;false;false;true;β+;;β+;744_Tb146_bp
+745;Tb;147;65;82;o;false;false;false;true;β+;;β+;745_Tb147_bp
+746;Tb;148;65;83;o;false;false;false;true;β+;;β+;746_Tb148_bp
+747;Tb;149;65;84;o+g;false;true;false;true;β+;α;β+, α;747_Tb149_bp-a
+748;Tb;150;65;85;o+g;false;true;false;true;β+;α;β+, α;748_Tb150_bp-a
+749;Tb;151;65;86;o+g;false;true;false;true;β+;α;β+, α;749_Tb151_bp-a
+750;Tb;152;65;87;o;false;false;false;true;β+;;β+;750_Tb152_bp
+751;Tb;153;65;88;o;false;false;false;true;β+;;β+;751_Tb153_bp
+752;Tb;154;65;89;o;false;false;false;true;β+;;β+;752_Tb154_bp
+753;Tb;155;65;90;o;false;false;false;true;β+;;β+;753_Tb155_bp
+754;Tb;156;65;91;o;false;false;false;true;β+;;β+;754_Tb156_bp
+755;Tb;157;65;92;o;false;false;false;true;β+;;β+;755_Tb157_bp
+756;Tb;158;65;93;o+b;false;false;true;true;β+;β-;β+, β-;756_Tb158_bp-bm
+757;Tb;159;65;94;s;true;false;false;false;;;;757_Tb159_stable
+758;Tb;160;65;95;b;false;false;true;false;β-;;β-;758_Tb160_bm
+759;Tb;161;65;96;b;false;false;true;false;β-;;β-;759_Tb161_bm
+760;Tb;162;65;97;b;false;false;true;false;β-;;β-;760_Tb162_bm
+761;Tb;163;65;98;b;false;false;true;false;β-;;β-;761_Tb163_bm
+762;Tb;164;65;99;b;false;false;true;false;β-;;β-;762_Tb164_bm
+763;Tb;165;65;100;b+b;false;false;true;false;β-;β-;β-, β-;763_Tb165_bm-bm
+764;Dy;148;66;82;o;false;false;false;true;β+;;β+;764_Dy148_bp
+765;Dy;149;66;83;o+o;false;false;false;true;β+;β+;β+, β+;765_Dy149_bp-bp
+766;Dy;150;66;84;o+g;false;true;false;true;β+;α;β+, α;766_Dy150_bp-a
+767;Dy;151;66;85;o+o;false;false;false;true;β+;β+;β+, β+;767_Dy151_bp-bp
+768;Dy;152;66;86;o+g;false;true;false;true;β+;α;β+, α;768_Dy152_bp-a
+769;Dy;153;66;87;o+g;false;true;false;true;β+;α;β+, α;769_Dy153_bp-a
+770;Dy;154;66;88;g;false;true;false;false;α;;α;770_Dy154_a
+771;Dy;155;66;89;o;false;false;false;true;β+;;β+;771_Dy155_bp
+772;Dy;156;66;90;s;true;false;false;false;;;;772_Dy156_stable
+773;Dy;157;66;91;o;false;false;false;true;β+;;β+;773_Dy157_bp
+774;Dy;158;66;92;s;true;false;false;false;;;;774_Dy158_stable
+775;Dy;159;66;93;o;false;false;false;true;β+;;β+;775_Dy159_bp
+776;Dy;160;66;94;s;true;false;false;false;;;;776_Dy160_stable
+777;Dy;161;66;95;s;true;false;false;false;;;;777_Dy161_stable
+778;Dy;162;66;96;s;true;false;false;false;;;;778_Dy162_stable
+779;Dy;163;66;97;s;true;false;false;false;;;;779_Dy163_stable
+780;Dy;164;66;98;s;true;false;false;false;;;;780_Dy164_stable
+781;Dy;165;66;99;b;false;false;true;false;β-;;β-;781_Dy165_bm
+782;Dy;166;66;100;b;false;false;true;false;β-;;β-;782_Dy166_bm
+783;Dy;167;66;101;b;false;false;true;false;β-;;β-;783_Dy167_bm
+784;Dy;168;66;102;b;false;false;true;false;β-;;β-;784_Dy168_bm
+785;Ho;150;67;83;o;false;false;false;true;β+;;β+;785_Ho150_bp
+786;Ho;153;67;86;o+g;false;true;false;true;β+;α;β+, α;786_Ho153_bp-a
+787;Ho;154;67;87;o+g;false;true;false;true;β+;α;β+, α;787_Ho154_bp-a
+788;Ho;155;67;88;o;false;false;false;true;β+;;β+;788_Ho155_bp
+789;Ho;156;67;89;o;false;false;false;true;β+;;β+;789_Ho156_bp
+790;Ho;157;67;90;o;false;false;false;true;β+;;β+;790_Ho157_bp
+791;Ho;159;67;92;o;false;false;false;true;β+;;β+;791_Ho159_bp
+792;Ho;160;67;93;o;false;false;false;true;β+;;β+;792_Ho160_bp
+793;Ho;161;67;94;o;false;false;false;true;β+;;β+;793_Ho161_bp
+794;Ho;162;67;95;o;false;false;false;true;β+;;β+;794_Ho162_bp
+795;Ho;163;67;96;o;false;false;false;true;β+;;β+;795_Ho163_bp
+796;Ho;164;67;97;o+b;false;false;true;true;β+;β-;β+, β-;796_Ho164_bp-bm
+797;Ho;165;67;98;s;true;false;false;false;;;;797_Ho165_stable
+798;Ho;166;67;99;b;false;false;true;false;β-;;β-;798_Ho166_bm
+799;Ho;167;67;100;b;false;false;true;false;β-;;β-;799_Ho167_bm
+800;Ho;168;67;101;b;false;false;true;false;β-;;β-;800_Ho168_bm
+801;Ho;170;67;103;b;false;false;true;false;β-;;β-;801_Ho170_bm
+802;Er;154;68;86;o+g;false;true;false;true;β+;α;β+, α;802_Er154_bp-a
+803;Er;156;68;88;o;false;false;false;true;β+;;β+;803_Er156_bp
+804;Er;159;68;91;o;false;false;false;true;β+;;β+;804_Er159_bp
+805;Er;161;68;93;o;false;false;false;true;β+;;β+;805_Er161_bp
+806;Er;162;68;94;s;true;false;false;false;;;;806_Er162_stable
+807;Er;163;68;95;o;false;false;false;true;β+;;β+;807_Er163_bp
+808;Er;164;68;96;s;true;false;false;false;;;;808_Er164_stable
+809;Er;165;68;97;o;false;false;false;true;β+;;β+;809_Er165_bp
+810;Er;166;68;98;s;true;false;false;false;;;;810_Er166_stable
+811;Er;167;68;99;s;true;false;false;false;;;;811_Er167_stable
+812;Er;168;68;100;s;true;false;false;false;;;;812_Er168_stable
+813;Er;169;68;101;b;false;false;true;false;β-;;β-;813_Er169_bm
+814;Er;170;68;102;s;true;false;false;false;;;;814_Er170_stable
+815;Er;171;68;103;b;false;false;true;false;β-;;β-;815_Er171_bm
+816;Er;172;68;104;b;false;false;true;false;β-;;β-;816_Er172_bm
+817;Er;173;68;105;b;false;false;true;false;β-;;β-;817_Er173_bm
+818;Tm;161;69;92;o;false;false;false;true;β+;;β+;818_Tm161_bp
+819;Tm;162;69;93;o;false;false;false;true;β+;;β+;819_Tm162_bp
+820;Tm;163;69;94;o;false;false;false;true;β+;;β+;820_Tm163_bp
+821;Tm;164;69;95;o;false;false;false;true;β+;;β+;821_Tm164_bp
+822;Tm;165;69;96;o;false;false;false;true;β+;;β+;822_Tm165_bp
+823;Tm;166;69;97;o;false;false;false;true;β+;;β+;823_Tm166_bp
+824;Tm;167;69;98;o;false;false;false;true;β+;;β+;824_Tm167_bp
+825;Tm;168;69;99;o+b;false;false;true;true;β+;β-;β+, β-;825_Tm168_bp-bm
+826;Tm;169;69;100;s;true;false;false;false;;;;826_Tm169_stable
+827;Tm;170;69;101;b+o;false;false;true;true;β-;β+;β-, β+;827_Tm170_bm-bp
+828;Tm;171;69;102;b;false;false;true;false;β-;;β-;828_Tm171_bm
+829;Tm;172;69;103;b;false;false;true;false;β-;;β-;829_Tm172_bm
+830;Tm;173;69;104;b;false;false;true;false;β-;;β-;830_Tm173_bm
+831;Tm;174;69;105;b;false;false;true;false;β-;;β-;831_Tm174_bm
+832;Tm;175;69;106;b;false;false;true;false;β-;;β-;832_Tm175_bm
+833;Tm;176;69;107;b;false;false;true;false;β-;;β-;833_Tm176_bm
+834;Yb;162;70;92;o;false;false;false;true;β+;;β+;834_Yb162_bp
+835;Yb;163;70;93;o;false;false;false;true;β+;;β+;835_Yb163_bp
+836;Yb;164;70;94;o;false;false;false;true;β+;;β+;836_Yb164_bp
+837;Yb;165;70;95;o;false;false;false;true;β+;;β+;837_Yb165_bp
+838;Yb;166;70;96;o;false;false;false;true;β+;;β+;838_Yb166_bp
+839;Yb;167;70;97;o;false;false;false;true;β+;;β+;839_Yb167_bp
+840;Yb;168;70;98;s;true;false;false;false;;;;840_Yb168_stable
+841;Yb;169;70;99;o;false;false;false;true;β+;;β+;841_Yb169_bp
+842;Yb;170;70;100;s;true;false;false;false;;;;842_Yb170_stable
+843;Yb;171;70;101;s;true;false;false;false;;;;843_Yb171_stable
+844;Yb;172;70;102;s;true;false;false;false;;;;844_Yb172_stable
+845;Yb;173;70;103;s;true;false;false;false;;;;845_Yb173_stable
+846;Yb;174;70;104;s;true;false;false;false;;;;846_Yb174_stable
+847;Yb;175;70;105;b;false;false;true;false;β-;;β-;847_Yb175_bm
+848;Yb;176;70;106;s;true;false;false;false;;;;848_Yb176_stable
+849;Yb;177;70;107;b;false;false;true;false;β-;;β-;849_Yb177_bm
+850;Yb;178;70;108;b;false;false;true;false;β-;;β-;850_Yb178_bm
+851;Yb;179;70;109;b;false;false;true;false;β-;;β-;851_Yb179_bm
+852;Lu;165;71;94;o;false;false;false;true;β+;;β+;852_Lu165_bp
+853;Lu;167;71;96;o;false;false;false;true;β+;;β+;853_Lu167_bp
+854;Lu;169;71;98;o;false;false;false;true;β+;;β+;854_Lu169_bp
+855;Lu;170;71;99;o;false;false;false;true;β+;;β+;855_Lu170_bp
+856;Lu;171;71;100;o;false;false;false;true;β+;;β+;856_Lu171_bp
+857;Lu;172;71;101;o;false;false;false;true;β+;;β+;857_Lu172_bp
+858;Lu;173;71;102;o;false;false;false;true;β+;;β+;858_Lu173_bp
+859;Lu;174;71;103;o;false;false;false;true;β+;;β+;859_Lu174_bp
+860;Lu;175;71;104;s;true;false;false;false;;;;860_Lu175_stable
+861;Lu;176;71;105;b;false;false;true;false;β-;;β-;861_Lu176_bm
+862;Lu;177;71;106;b;false;false;true;false;β-;;β-;862_Lu177_bm
+863;Lu;178;71;107;b;false;false;true;false;β-;;β-;863_Lu178_bm
+864;Lu;179;71;108;b;false;false;true;false;β-;;β-;864_Lu179_bm
+865;Lu;180;71;109;b;false;false;true;false;β-;;β-;865_Lu180_bm
+866;Lu;181;71;110;b;false;false;true;false;β-;;β-;866_Lu181_bm
+867;Hf;167;72;95;o;false;false;false;true;β+;;β+;867_Hf167_bp
+868;Hf;169;72;97;o+o;false;false;false;true;β+;β+;β+, β+;868_Hf169_bp-bp
+869;Hf;170;72;98;o;false;false;false;true;β+;;β+;869_Hf170_bp
+870;Hf;172;72;100;o;false;false;false;true;β+;;β+;870_Hf172_bp
+871;Hf;173;72;101;o;false;false;false;true;β+;;β+;871_Hf173_bp
+872;Hf;174;72;102;g;false;true;false;false;α;;α;872_Hf174_a
+873;Hf;175;72;103;o;false;false;false;true;β+;;β+;873_Hf175_bp
+874;Hf;176;72;104;s;true;false;false;false;;;;874_Hf176_stable
+875;Hf;177;72;105;s;true;false;false;false;;;;875_Hf177_stable
+876;Hf;178;72;106;s;true;false;false;false;;;;876_Hf178_stable
+877;Hf;179;72;107;s;true;false;false;false;;;;877_Hf179_stable
+878;Hf;180;72;108;s;true;false;false;false;;;;878_Hf180_stable
+879;Hf;181;72;109;b;false;false;true;false;β-;;β-;879_Hf181_bm
+880;Hf;182;72;110;b;false;false;true;false;β-;;β-;880_Hf182_bm
+881;Hf;183;72;111;b;false;false;true;false;β-;;β-;881_Hf183_bm
+882;Hf;184;72;112;b;false;false;true;false;β-;;β-;882_Hf184_bm
+883;Ta;170;73;97;o;false;false;false;true;β+;;β+;883_Ta170_bp
+884;Ta;172;73;99;o;false;false;false;true;β+;;β+;884_Ta172_bp
+885;Ta;173;73;100;o;false;false;false;true;β+;;β+;885_Ta173_bp
+886;Ta;174;73;101;o;false;false;false;true;β+;;β+;886_Ta174_bp
+887;Ta;175;73;102;o;false;false;false;true;β+;;β+;887_Ta175_bp
+888;Ta;176;73;103;o;false;false;false;true;β+;;β+;888_Ta176_bp
+889;Ta;177;73;104;o;false;false;false;true;β+;;β+;889_Ta177_bp
+890;Ta;178;73;105;o;false;false;false;true;β+;;β+;890_Ta178_bp
+891;Ta;179;73;106;o;false;false;false;true;β+;;β+;891_Ta179_bp
+892;Ta;180;73;107;o+b;false;false;true;true;β+;β-;β+, β-;892_Ta180_bp-bm
+893;Ta;181;73;108;s;true;false;false;false;;;;893_Ta181_stable
+894;Ta;182;73;109;b;false;false;true;false;β-;;β-;894_Ta182_bm
+895;Ta;183;73;110;b;false;false;true;false;β-;;β-;895_Ta183_bm
+896;Ta;184;73;111;b;false;false;true;false;β-;;β-;896_Ta184_bm
+897;Ta;185;73;112;b;false;false;true;false;β-;;β-;897_Ta185_bm
+898;Ta;186;73;113;b;false;false;true;false;β-;;β-;898_Ta186_bm
+899;W;177;74;103;o;false;false;false;true;β+;;β+;899_W177_bp
+900;W;178;74;104;o;false;false;false;true;β+;;β+;900_W178_bp
+901;W;179;74;105;o;false;false;false;true;β+;;β+;901_W179_bp
+902;W;180;74;106;s;true;false;false;false;;;;902_W180_stable
+903;W;181;74;107;o;false;false;false;true;β+;;β+;903_W181_bp
+904;W;182;74;108;s;true;false;false;false;;;;904_W182_stable
+905;W;183;74;109;s;true;false;false;false;;;;905_W183_stable
+906;W;184;74;110;s;true;false;false;false;;;;906_W184_stable
+907;W;185;74;111;b;false;false;true;false;β-;;β-;907_W185_bm
+908;W;186;74;112;s;true;false;false;false;;;;908_W186_stable
+909;W;187;74;113;b;false;false;true;false;β-;;β-;909_W187_bm
+910;W;188;74;114;b;false;false;true;false;β-;;β-;910_W188_bm
+911;W;190;74;116;b;false;false;true;false;β-;;β-;911_W190_bm
+912;Re;178;75;103;o;false;false;false;true;β+;;β+;912_Re178_bp
+913;Re;179;75;104;o+o;false;false;false;true;β+;β+;β+, β+;913_Re179_bp-bp
+914;Re;180;75;105;o;false;false;false;true;β+;;β+;914_Re180_bp
+915;Re;181;75;106;o;false;false;false;true;β+;;β+;915_Re181_bp
+916;Re;182;75;107;o;false;false;false;true;β+;;β+;916_Re182_bp
+917;Re;183;75;108;o;false;false;false;true;β+;;β+;917_Re183_bp
+918;Re;184;75;109;o;false;false;false;true;β+;;β+;918_Re184_bp
+919;Re;185;75;110;s;true;false;false;false;;;;919_Re185_stable
+920;Re;186;75;111;b+o;false;false;true;true;β-;β+;β-, β+;920_Re186_bm-bp
+921;Re;187;75;112;b;false;false;true;false;β-;;β-;921_Re187_bm
+922;Re;188;75;113;b;false;false;true;false;β-;;β-;922_Re188_bm
+923;Re;189;75;114;b+b;false;false;true;false;β-;β-;β-, β-;923_Re189_bm-bm
+924;Re;190;75;115;b;false;false;true;false;β-;;β-;924_Re190_bm
+925;Os;180;76;104;o;false;false;false;true;β+;;β+;925_Os180_bp
+926;Os;181;76;105;o;false;false;false;true;β+;;β+;926_Os181_bp
+927;Os;182;76;106;o;false;false;false;true;β+;;β+;927_Os182_bp
+928;Os;183;76;107;o;false;false;false;true;β+;;β+;928_Os183_bp
+929;Os;184;76;108;s;true;false;false;false;;;;929_Os184_stable
+930;Os;185;76;109;o;false;false;false;true;β+;;β+;930_Os185_bp
+931;Os;186;76;110;g;false;true;false;false;α;;α;931_Os186_a
+932;Os;187;76;111;s;true;false;false;false;;;;932_Os187_stable
+933;Os;188;76;112;s;true;false;false;false;;;;933_Os188_stable
+934;Os;189;76;113;s;true;false;false;false;;;;934_Os189_stable
+935;Os;190;76;114;s;true;false;false;false;;;;935_Os190_stable
+936;Os;191;76;115;b;false;false;true;false;β-;;β-;936_Os191_bm
+937;Os;192;76;116;s;true;false;false;false;;;;937_Os192_stable
+938;Os;193;76;117;b+b;false;false;true;false;β-;β-;β-, β-;938_Os193_bm-bm
+939;Os;194;76;118;b;false;false;true;false;β-;;β-;939_Os194_bm
+940;Os;196;76;120;b;false;false;true;false;β-;;β-;940_Os196_bm
+941;Ir;180;77;103;o;false;false;false;true;β+;;β+;941_Ir180_bp
+942;Ir;182;77;105;o;false;false;false;true;β+;;β+;942_Ir182_bp
+943;Ir;183;77;106;o+o;false;false;false;true;β+;β+;β+, β+;943_Ir183_bp-bp
+944;Ir;184;77;107;o;false;false;false;true;β+;;β+;944_Ir184_bp
+945;Ir;185;77;108;o;false;false;false;true;β+;;β+;945_Ir185_bp
+946;Ir;186;77;109;o;false;false;false;true;β+;;β+;946_Ir186_bp
+947;Ir;187;77;110;o;false;false;false;true;β+;;β+;947_Ir187_bp
+948;Ir;188;77;111;o;false;false;false;true;β+;;β+;948_Ir188_bp
+949;Ir;189;77;112;o+o;false;false;false;true;β+;β+;β+, β+;949_Ir189_bp-bp
+950;Ir;190;77;113;o;false;false;false;true;β+;;β+;950_Ir190_bp
+951;Ir;191;77;114;s;true;false;false;false;;;;951_Ir191_stable
+952;Ir;192;77;115;b+o;false;false;true;true;β-;β+;β-, β+;952_Ir192_bm-bp
+953;Ir;193;77;116;s;true;false;false;false;;;;953_Ir193_stable
+954;Ir;194;77;117;b;false;false;true;false;β-;;β-;954_Ir194_bm
+955;Ir;195;77;118;b;false;false;true;false;β-;;β-;955_Ir195_bm
+956;Ir;196;77;119;b;false;false;true;false;β-;;β-;956_Ir196_bm
+957;Pt;184;78;106;o+g;false;true;false;true;β+;α;β+, α;957_Pt184_bp-a
+958;Pt;186;78;108;o+o;false;false;false;true;β+;β+;β+, β+;958_Pt186_bp-bp
+959;Pt;187;78;109;o;false;false;false;true;β+;;β+;959_Pt187_bp
+960;Pt;188;78;110;o+g;false;true;false;true;β+;α;β+, α;960_Pt188_bp-a
+961;Pt;189;78;111;o;false;false;false;true;β+;;β+;961_Pt189_bp
+962;Pt;190;78;112;g;false;true;false;false;α;;α;962_Pt190_a
+963;Pt;191;78;113;o;false;false;false;true;β+;;β+;963_Pt191_bp
+964;Pt;192;78;114;s;true;false;false;false;;;;964_Pt192_stable
+965;Pt;193;78;115;o;false;false;false;true;β+;;β+;965_Pt193_bp
+966;Pt;194;78;116;s;true;false;false;false;;;;966_Pt194_stable
+967;Pt;195;78;117;s;true;false;false;false;;;;967_Pt195_stable
+968;Pt;196;78;118;s;true;false;false;false;;;;968_Pt196_stable
+969;Pt;197;78;119;b;false;false;true;false;β-;;β-;969_Pt197_bm
+970;Pt;198;78;120;s;true;false;false;false;;;;970_Pt198_stable
+971;Pt;199;78;121;b;false;false;true;false;β-;;β-;971_Pt199_bm
+972;Pt;200;78;122;b;false;false;true;false;β-;;β-;972_Pt200_bm
+973;Pt;202;78;124;b;false;false;true;false;β-;;β-;973_Pt202_bm
+974;Au;186;79;107;o;false;false;false;true;β+;;β+;974_Au186_bp
+975;Au;187;79;108;o+g;false;true;false;true;β+;α;β+, α;975_Au187_bp-a
+976;Au;190;79;111;o;false;false;false;true;β+;;β+;976_Au190_bp
+977;Au;191;79;112;o;false;false;false;true;β+;;β+;977_Au191_bp
+978;Au;192;79;113;o;false;false;false;true;β+;;β+;978_Au192_bp
+979;Au;193;79;114;o;false;false;false;true;β+;;β+;979_Au193_bp
+980;Au;194;79;115;o;false;false;false;true;β+;;β+;980_Au194_bp
+981;Au;195;79;116;o;false;false;false;true;β+;;β+;981_Au195_bp
+982;Au;196;79;117;o+b;false;false;true;true;β+;β-;β+, β-;982_Au196_bp-bm
+983;Au;197;79;118;s;true;false;false;false;;;;983_Au197_stable
+984;Au;198;79;119;b;false;false;true;false;β-;;β-;984_Au198_bm
+985;Au;199;79;120;b;false;false;true;false;β-;;β-;985_Au199_bm
+986;Au;200;79;121;b;false;false;true;false;β-;;β-;986_Au200_bm
+987;Au;201;79;122;b;false;false;true;false;β-;;β-;987_Au201_bm
+988;Au;202;79;123;b;false;false;true;false;β-;;β-;988_Au202_bm
+989;Hg;190;80;110;o;false;false;false;true;β+;;β+;989_Hg190_bp
+990;Hg;192;80;112;o;false;false;false;true;β+;;β+;990_Hg192_bp
+991;Hg;193;80;113;o+o;false;false;false;true;β+;β+;β+, β+;991_Hg193_bp-bp
+992;Hg;194;80;114;o;false;false;false;true;β+;;β+;992_Hg194_bp
+993;Hg;195;80;115;o;false;false;false;true;β+;;β+;993_Hg195_bp
+994;Hg;196;80;116;s;true;false;false;false;;;;994_Hg196_stable
+995;Hg;197;80;117;o;false;false;false;true;β+;;β+;995_Hg197_bp
+996;Hg;198;80;118;s;true;false;false;false;;;;996_Hg198_stable
+997;Hg;199;80;119;s;true;false;false;false;;;;997_Hg199_stable
+998;Hg;200;80;120;s;true;false;false;false;;;;998_Hg200_stable
+999;Hg;201;80;121;s;true;false;false;false;;;;999_Hg201_stable
+1.000;Hg;202;80;122;s;true;false;false;false;;;;1.000_Hg202_stable
+1.001;Hg;203;80;123;b;false;false;true;false;β-;;β-;1.001_Hg203_bm
+1.002;Hg;204;80;124;s;true;false;false;false;;;;1.002_Hg204_stable
+1.003;Hg;205;80;125;b;false;false;true;false;β-;;β-;1.003_Hg205_bm
+1.004;Hg;206;80;126;b;false;false;true;false;β-;;β-;1.004_Hg206_bm
+1.005;Hg;207;80;127;b;false;false;true;false;β-;;β-;1.005_Hg207_bm
+1.006;Tl;190;81;109;o;false;false;false;true;β+;;β+;1.006_Tl190_bp
+1.007;Tl;194;81;113;o;false;false;false;true;β+;;β+;1.007_Tl194_bp
+1.008;Tl;195;81;114;o+o;false;false;false;true;β+;β+;β+, β+;1.008_Tl195_bp-bp
+1.009;Tl;196;81;115;o;false;false;false;true;β+;;β+;1.009_Tl196_bp
+1.010;Tl;197;81;116;o;false;false;false;true;β+;;β+;1.010_Tl197_bp
+1.011;Tl;198;81;117;o;false;false;false;true;β+;;β+;1.011_Tl198_bp
+1.012;Tl;199;81;118;o;false;false;false;true;β+;;β+;1.012_Tl199_bp
+1.013;Tl;200;81;119;o;false;false;false;true;β+;;β+;1.013_Tl200_bp
+1.014;Tl;201;81;120;o;false;false;false;true;β+;;β+;1.014_Tl201_bp
+1.015;Tl;202;81;121;o;false;false;false;true;β+;;β+;1.015_Tl202_bp
+1.016;Tl;203;81;122;s;true;false;false;false;;;;1.016_Tl203_stable
+1.017;Tl;204;81;123;b+o;false;false;true;true;β-;β+;β-, β+;1.017_Tl204_bm-bp
+1.018;Tl;205;81;124;s;true;false;false;false;;;;1.018_Tl205_stable
+1.019;Tl;206;81;125;b;false;false;true;false;β-;;β-;1.019_Tl206_bm
+1.020;Tl;207;81;126;b;false;false;true;false;β-;;β-;1.020_Tl207_bm
+1.021;Tl;208;81;127;b;false;false;true;false;β-;;β-;1.021_Tl208_bm
+1.022;Tl;209;81;128;b;false;false;true;false;β-;;β-;1.022_Tl209_bm
+1.023;Tl;210;81;129;b;false;false;true;false;β-;;β-;1.023_Tl210_bm
+1.024;Pb;194;82;112;o+g;false;true;false;true;β+;α;β+, α;1.024_Pb194_bp-a
+1.025;Pb;196;82;114;o;false;false;false;true;β+;;β+;1.025_Pb196_bp
+1.026;Pb;197;82;115;o;false;false;false;true;β+;;β+;1.026_Pb197_bp
+1.027;Pb;198;82;116;o;false;false;false;true;β+;;β+;1.027_Pb198_bp
+1.028;Pb;199;82;117;o;false;false;false;true;β+;;β+;1.028_Pb199_bp
+1.029;Pb;200;82;118;o;false;false;false;true;β+;;β+;1.029_Pb200_bp
+1.030;Pb;201;82;119;o;false;false;false;true;β+;;β+;1.030_Pb201_bp
+1.031;Pb;202;82;120;o+g;false;true;false;true;β+;α;β+, α;1.031_Pb202_bp-a
+1.032;Pb;203;82;121;o;false;false;false;true;β+;;β+;1.032_Pb203_bp
+1.033;Pb;204;82;122;s;true;false;false;false;;;;1.033_Pb204_stable
+1.034;Pb;205;82;123;o;false;false;false;true;β+;;β+;1.034_Pb205_bp
+1.035;Pb;206;82;124;s;true;false;false;false;;;;1.035_Pb206_stable
+1.036;Pb;207;82;125;s;true;false;false;false;;;;1.036_Pb207_stable
+1.037;Pb;208;82;126;s;true;false;false;false;;;;1.037_Pb208_stable
+1.038;Pb;209;82;127;b;false;false;true;false;β-;;β-;1.038_Pb209_bm
+1.039;Pb;210;82;128;b+g;false;true;true;false;β-;α;β-, α;1.039_Pb210_bm-a
+1.040;Pb;211;82;129;b;false;false;true;false;β-;;β-;1.040_Pb211_bm
+1.041;Pb;212;82;130;b;false;false;true;false;β-;;β-;1.041_Pb212_bm
+1.042;Pb;214;82;132;b;false;false;true;false;β-;;β-;1.042_Pb214_bm
+1.043;Bi;197;83;114;o+o;false;false;false;true;β+;β+;β+, β+;1.043_Bi197_bp-bp
+1.044;Bi;200;83;117;o;false;false;false;true;β+;;β+;1.044_Bi200_bp
+1.045;Bi;201;83;118;o+o;false;false;false;true;β+;β+;β+, β+;1.045_Bi201_bp-bp
+1.046;Bi;202;83;119;o;false;false;false;true;β+;;β+;1.046_Bi202_bp
+1.047;Bi;203;83;120;o;false;false;false;true;β+;;β+;1.047_Bi203_bp
+1.048;Bi;204;83;121;o+o;false;false;false;true;β+;β+;β+, β+;1.048_Bi204_bp-bp
+1.049;Bi;205;83;122;o;false;false;false;true;β+;;β+;1.049_Bi205_bp
+1.050;Bi;206;83;123;o;false;false;false;true;β+;;β+;1.050_Bi206_bp
+1.051;Bi;207;83;124;o;false;false;false;true;β+;;β+;1.051_Bi207_bp
+1.052;Bi;208;83;125;o;false;false;false;true;β+;;β+;1.052_Bi208_bp
+1.053;Bi;209;83;126;s;true;false;false;false;;;;1.053_Bi209_stable
+1.054;Bi;210;83;127;b+g;false;true;true;false;β-;α;β-, α;1.054_Bi210_bm-a
+1.055;Bi;211;83;128;g+b;false;true;true;false;α;β-;α, β-;1.055_Bi211_a-bm
+1.056;Bi;212;83;129;b+g;false;true;true;false;β-;α;β-, α;1.056_Bi212_bm-a
+1.057;Bi;213;83;130;b+g;false;true;true;false;β-;α;β-, α;1.057_Bi213_bm-a
+1.058;Bi;214;83;131;b+g;false;true;true;false;β-;α;β-, α;1.058_Bi214_bm-a
+1.059;Bi;215;83;132;b;false;false;true;false;β-;;β-;1.059_Bi215_bm
+1.060;Bi;216;83;133;b;false;false;true;false;β-;;β-;1.060_Bi216_bm
+1.061;Po;210;84;126;g;false;true;false;false;α;;α;1.061_Po210_a
