@@ -222,11 +222,11 @@ The languages are defined as configurations, you may change or add an entry in t
 
 ### Tile generation with OpenSCAD and Perl
 
-The tiles were generated with OpenSCAD and a Perl script. Out is necessary to install [Sofia Sans](https://github.com/lettersoup/Sofia-Sans) and [M+ 1c Rounded](https://fonts.google.com/specimen/M+PLUS+Rounded+1c). On macOS copy the font files to `~/Library/Fonts` and restart OpenSCAD (it might won’t work if you use a special font manager, that activates fonts in a different way).
+The tiles were generated with OpenSCAD and a Perl script. It is necessary to install [Sofia Sans](https://github.com/lettersoup/Sofia-Sans) and [M+ 1c Rounded](https://fonts.google.com/specimen/M+PLUS+Rounded+1c). On macOS copy the font files to `~/Library/Fonts` and restart OpenSCAD (it might won’t work if you use a special font manager, that activates fonts in a different way).
 
 #### Additional variables in OpenSCAD
 
-In the OpenSCAD file you’ll find some of the onshape variables and in addition to that the file adds the following ones:
+In the OpenSCAD file `nuclidepuzzle_tiles.scad` you’ll find some of the onshape variables and in addition to that the file adds the following ones, that you might want to change.
 
 - `showDecaysText` = if true the decay text is visible on the tile
 - `markSecondDecay` = if true the has an extra layer for diagonal coloring
@@ -254,3 +254,28 @@ The script will then ask if you want to delete existing tile STLs and start gene
 If you want to add more elements/isotopes or change something else, change the CSV file or the Numbers file and export a CSV file. Then run the script as described above.
 
 You can then use the script `sort_tiles_by_decay.pl` to sort the tiles in sub folders by decay mode. Change the folder with tiles to be sorted in line 9 of the script.
+
+### Block generation with OpenSCAD and Perl
+
+To make bigger blocks of tiles there is the script `group_tiles_in_blocks.pl`.
+
+#### Variables in the script
+
+Beside some path settings you may change the following variables.
+
+- `$tile_size` = the size of the tiles (38mm)
+- `$block_size_n` = width of block
+- `$block_size_n` = height of block
+- `$char_empty`, `$char_active` and `$char_stable` (used for the ASCII map generated at the end)
+
+My default size for the block is 7×7 which will fit my Bambu Lab H2D.
+
+#### Semi-autogenerate the blocks
+
+Open a Terminal / command window at `block_generation/` and run
+
+```bash
+perl group_tiles_in_blocks.pl
+```
+
+The scrip will ask to delete resisting block SCAD files first and then generate the SCAD files for each block at `block_generation/blocks/`. You then have to use OpenSCAD to convert the blocks to STL. the repo contains already some blocks and matching STLs at `stl/blocks/`

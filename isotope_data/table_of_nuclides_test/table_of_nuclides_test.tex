@@ -84,6 +84,9 @@
         -- cycle;
     }
   },
+  block line/.style = {
+    red, ultra thick
+  },
 }
 
 \begin{document}
@@ -115,5 +118,14 @@
       \footnotesize\DATAdecays
     };
   }
+  % block lines
+  \def\blockWidth{7}
+  \def\blockHeight{7}
+  \pgfmathsetmacro\nextN{\minN+\blockWidth}
+  \pgfmathsetmacro\nextZ{\minZ+\blockHeight}
+  \foreach \n in {\minN,\nextN,...,\maxN}
+    \draw [block line] (\n-0.5,\minZ-0.5) -- (\n-0.5,\maxZ+1);
+  \foreach \z in {\minZ,\nextZ,...,\maxZ}
+    \draw [block line] (\minN-0.5,\z-0.5) -- (\maxN+1,\z-0.5);
 \end{tikzpicture}
 \end{document}
